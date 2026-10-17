@@ -1,0 +1,1162 @@
+{
+ "generatedBy": "scripts/author-content.js",
+ "template18": [
+  "Concept and rationale",
+  "Purpose of the standard",
+  "Scope and definitions",
+  "Recognition",
+  "Initial measurement",
+  "Subsequent measurement",
+  "Presentation and disclosure",
+  "Calculations and journals",
+  "Gains, losses, income, expense, assets, liabilities",
+  "Effect on profit or loss, OCI, equity, cash flows",
+  "Consolidation implications",
+  "Exceptions and judgements",
+  "Interaction with other standards",
+  "Common misunderstandings and exam traps",
+  "Ethical considerations",
+  "Business scenario application",
+  "Exam-style questions and worked solutions",
+  "Revision summary and recall questions"
+ ],
+ "modules": [
+  {
+   "id": "M0",
+   "title": "Orientation: the SBR exam and how it is assessed",
+   "lessons": [
+    {
+     "id": "L-S7",
+     "title": "Structure of the SBR exam",
+     "syllabusRefs": [
+      "S7",
+      "S9"
+     ],
+     "status": "verified-from-sources",
+     "claims": [
+      {
+       "id": "c1",
+       "type": "source_statement",
+       "text": "The syllabus is assessed by a three-hour fifteen-minute examination.",
+       "citations": [
+        {
+         "chunkId": "ACCA-SYL-SBRINT-2627:p12:c4",
+         "quote": "The syllabus is assessed by a three-hour fifteen-minute examination."
+        }
+       ]
+      },
+      {
+       "id": "c2",
+       "type": "source_statement",
+       "text": "Section A will consist of two scenario-based questions. The first question will be worth 30 marks and the second question will be worth 20 marks.",
+       "citations": [
+        {
+         "chunkId": "ACCA-SYL-SBRINT-2627:p12:c5",
+         "quote": "Section A will consist of two scenario-based questions. The first question will be worth 30 marks and the second question will be worth 20 marks."
+        }
+       ]
+      },
+      {
+       "id": "c3",
+       "type": "source_statement",
+       "text": "Candidates will need to discuss issues in group accounting and use a spreadsheet to adjust a consolidated financial statement.",
+       "citations": [
+        {
+         "chunkId": "ACCA-SYL-SBRINT-2627:p13:c1",
+         "quote": "Candidates will need to discuss issues in group accounting and use a spreadsheet to adjust a consolidated financial statement."
+        }
+       ]
+      },
+      {
+       "id": "c4",
+       "type": "source_statement",
+       "text": "The second question in Section A will require candidates to consider the reporting implications and the ethical implications of specific events in a contemporary scenario.",
+       "citations": [
+        {
+         "chunkId": "ACCA-SYL-SBRINT-2627:p13:c1",
+         "quote": "The second question in Section A will require candidates to consider the reporting implications and the ethical implications of specific events in a contemporary scenario."
+        }
+       ]
+      },
+      {
+       "id": "c5",
+       "type": "source_statement",
+       "text": "Students will be required to answer a further two questions, each worth 25 marks.",
+       "citations": [
+        {
+         "chunkId": "ACCA-SYL-SBRINT-2627:p13:c1",
+         "quote": "Students will be required to answer a further two questions, each worth 25 marks."
+        }
+       ]
+      },
+      {
+       "id": "c6",
+       "type": "source_statement",
+       "text": "Section B will always include either a full question, or part of a question, that requires the candidate to consider stakeholder perspectives.",
+       "citations": [
+        {
+         "chunkId": "ACCA-SYL-SBRINT-2627:p13:c1",
+         "quote": "Section B could deal with any aspect of the syllabus but will always include either a full question, or part of a question, that requires the candidate to consider stakeholder perspectives."
+        }
+       ]
+      },
+      {
+       "id": "c7",
+       "type": "source_statement",
+       "text": "Two professional skills marks will be awarded in question two and two in question four.",
+       "citations": [
+        {
+         "chunkId": "ACCA-SYL-SBRINT-2627:p13:c2",
+         "quote": "Two professional skills marks will be awarded in question two and two in question four."
+        }
+       ]
+      },
+      {
+       "id": "c8",
+       "type": "source_statement",
+       "text": "This exam contains four professional skills marks.",
+       "citations": [
+        {
+         "chunkId": "ACCA-SYL-SBRINT-2627:p15:c1",
+         "quote": "This exam contains four professional skills marks."
+        }
+       ]
+      },
+      {
+       "id": "c9",
+       "type": "source_statement",
+       "text": "It contains two sections and all questions are compulsory.",
+       "citations": [
+        {
+         "chunkId": "ACCA-SYL-SBRINT-2627:p15:c1",
+         "quote": "It contains two sections and all questions are compulsory."
+        }
+       ]
+      },
+      {
+       "id": "c10",
+       "type": "source_statement",
+       "text": "The pass mark for all ACCA Qualification examinations is 50%.",
+       "citations": [
+        {
+         "chunkId": "ACCA-SYL-SBRINT-2627:p14:c1",
+         "quote": "The pass mark for all ACCA Qualification examinations is 50%."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "L-S11",
+     "title": "What can be examined, and when",
+     "syllabusRefs": [
+      "S11"
+     ],
+     "status": "verified-from-sources",
+     "claims": [
+      {
+       "id": "c1",
+       "type": "source_statement",
+       "text": "For most examinations (not tax), regulations issued or legislation passed on or before 31 August annually will be examinable from 1 September of the following year to 31 August of the year after that.",
+       "citations": [
+        {
+         "chunkId": "ACCA-SYL-SBRINT-2627:p17:c1",
+         "quote": "For most examinations (not tax), regulations issued or legislation passed on or before 31 August annually, will be examinable from 1 September of the following year to 31 August of the year after that."
+        }
+       ]
+      },
+      {
+       "id": "c2",
+       "type": "source_statement",
+       "text": "Regulations issued or legislation passed in accordance with the above dates will not be examinable if the effective date is in the future, unless explicitly stated otherwise in this syllabus and study guide or examinable documents.",
+       "citations": [
+        {
+         "chunkId": "ACCA-SYL-SBRINT-2627:p17:c2",
+         "quote": "Regulations issued or legislation passed in accordance with the above dates will not be examinable if the effective date is in the future, unless explicitly stated otherwise in this syllabus and study guide or examinable documents."
+        }
+       ]
+      },
+      {
+       "id": "c3",
+       "type": "source_statement",
+       "text": "The term issued or passed relates to when regulation or legislation has been formally approved. The term effective relates to when regulation or legislation must be applied to an entity’s transactions and business practices.",
+       "citations": [
+        {
+         "chunkId": "ACCA-SYL-SBRINT-2627:p17:c2",
+         "quote": "The term issued or passed relates to when regulation or legislation has been formally approved. The term effective relates to when regulation or legislation must be applied to an entity’s transactions and business practices."
+        }
+       ]
+      },
+      {
+       "id": "c4",
+       "type": "inference",
+       "text": "The passage does not say which date the phrase \"in the future\" is measured from, so the ACCA examinable documents must be consulted to settle borderline cases.",
+       "citations": [
+        {
+         "chunkId": "ACCA-SYL-SBRINT-2627:p17:c2",
+         "quote": "will not be examinable if the effective date is in the future, unless explicitly stated otherwise in this syllabus and study guide or examinable documents"
+        }
+       ],
+       "basis": "The quoted rule refers to the future without naming a reference date, and it points to the examinable documents for exceptions."
+      }
+     ]
+    },
+    {
+     "id": "L-STEP",
+     "title": "Stepping up from FR: what changes at SBR",
+     "syllabusRefs": [
+      "S7",
+      "E1a"
+     ],
+     "status": "verified-from-sources",
+     "sourceNote": "Based on an ACCA article dated June 2025; the 2026-27 syllabus controls where they differ.",
+     "claims": [
+      {
+       "id": "c1",
+       "type": "source_statement",
+       "text": "The article says candidates will score very little in this exam for simply regurgitating the requirements of IFRS Accounting Standards.",
+       "citations": [
+        {
+         "chunkId": "ACCA-ART-SBR-STEPUP:p4:c8",
+         "quote": "You will score very little in this exam for simply regurgitating the requirements of IFRS Accounting Standards."
+        }
+       ]
+      },
+      {
+       "id": "c2",
+       "type": "source_statement",
+       "text": "The article says that in SBR analysis and interpretation has a very different meaning from FR and is tested in much more depth.",
+       "citations": [
+        {
+         "chunkId": "ACCA-ART-SBR-STEPUP:p4:c11",
+         "quote": "was in FR; however in SBR it has a very different meaning. AT THIS LEVEL, ‘ANALYSIS AND INTERPRETATION’ IS TESTED IN MUCH MORE DEPTH."
+        }
+       ]
+      },
+      {
+       "id": "c3",
+       "type": "source_statement",
+       "text": "The article says a common misconception is that a reporting exam is largely numerical, however the emphasis in SBR is on written questions.",
+       "citations": [
+        {
+         "chunkId": "ACCA-ART-SBR-STEPUP:p7:c2",
+         "quote": "A common misconception is that a reporting exam is largely numerical, however the emphasis in SBR is on written questions."
+        }
+       ]
+      },
+      {
+       "id": "c4",
+       "type": "source_statement",
+       "text": "The article says that additional performance measures are not examined in the earlier levels of the Qualification.",
+       "citations": [
+        {
+         "chunkId": "ACCA-ART-SBR-STEPUP:p5:c1",
+         "quote": "One area on the SBR syllabus that is worthy of specific mention is ‘additional performance measures’. This area is not examined in the earlier levels of the Qualification."
+        }
+       ]
+      },
+      {
+       "id": "c5",
+       "type": "source_statement",
+       "text": "The article says it is extremely important to be aware that the IFRS Sustainability Disclosure Standards are examinable documents.",
+       "citations": [
+        {
+         "chunkId": "ACCA-ART-SBR-STEPUP:p6:c9",
+         "quote": "it is extremely important to be aware that the IFRS Sustainability Disclosure Standards are examinable documents."
+        }
+       ]
+      },
+      {
+       "id": "c6",
+       "type": "source_statement",
+       "text": "The article says the best way to develop the necessary skills and a good exam technique is to attempt exam-style questions throughout your studies.",
+       "citations": [
+        {
+         "chunkId": "ACCA-ART-SBR-STEPUP:p7:c7",
+         "quote": "the very best way to develop these necessary skills and a good exam technique is to attempt exam-style questions throughout your studies."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "MT",
+   "title": "Exam technique",
+   "lessons": [
+    {
+     "id": "T-STAKE",
+     "title": "Adopting a stakeholder focus",
+     "syllabusRefs": [
+      "S7"
+     ],
+     "status": "verified-from-sources",
+     "claims": [
+      {
+       "id": "c1",
+       "type": "source_statement",
+       "text": "Students will be required to adopt either a stakeholder or an external focus in answering questions.",
+       "citations": [
+        {
+         "chunkId": "ACCA-SYL-SBRINT-2627:p12:c5",
+         "quote": "Students will be required to adopt either a stakeholder or an external focus in answering questions"
+        }
+       ]
+      },
+      {
+       "id": "c2",
+       "type": "source_statement",
+       "text": "The article says you should practise thinking from the point of view of different stakeholder groups, as the syllabus places a significant emphasis on stakeholder impact.",
+       "citations": [
+        {
+         "chunkId": "ACCA-ART-SBR-STEPUP:p4:c13",
+         "quote": "You should also ensure that you practise thinking from the point of view of different stakeholder groups, as the syllabus places a significant emphasis on stakeholder impact."
+        }
+       ]
+      },
+      {
+       "id": "c3",
+       "type": "source_statement",
+       "text": "Section B will always include either a full question, or part of a question, that requires the candidate to consider stakeholder perspectives.",
+       "citations": [
+        {
+         "chunkId": "ACCA-SYL-SBRINT-2627:p13:c1",
+         "quote": "Section B could deal with any aspect of the syllabus but will always include either a full question, or part of a question, that requires the candidate to consider stakeholder perspectives."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "T-STRUCT",
+     "title": "A flexible five-step answer structure",
+     "syllabusRefs": [
+      "S7"
+     ],
+     "status": "app-guidance",
+     "sourceNote": "This framework was specified in your project brief. It is NOT ACCA guidance and is not source-verified. Use it as a flexible aid, not a template.",
+     "steps": [
+      "Identify the issue",
+      "Explain the applicable principle",
+      "Apply it to the facts",
+      "Explain the accounting and financial statement consequences",
+      "Conclude or recommend an action"
+     ],
+     "worked": {
+      "requirement": "Explain how Section B differs from Section A in the SBR exam. (Subject matter is exam structure, so every fact below is source-verified.)",
+      "weak": "Section B is harder and has more writing.",
+      "adequate": "Section A has two scenario-based questions worth 30 and 20 marks. Section B has two questions worth 25 marks each.",
+      "strong": "Issue: the difference in structure and focus. Principle (syllabus): Section A is two scenario-based questions worth 30 and 20 marks; Section B is two discursive questions worth 25 marks each. Application: the first Section A question centres on group accounting and a spreadsheet task, while Section B can cover any syllabus area. Consequence: revision must cover all areas because all questions are compulsory, and Section B always needs a stakeholder viewpoint. Conclusion: plan revision across the whole syllabus and practise stakeholder-focused answers.",
+      "commentary": "Weak: vague and unsupported. Adequate: accurate but only restates facts. Strong: states the issue, applies the facts to the learner’s situation and draws a conclusion. The marks logic here is illustrative, not an ACCA marking scheme.",
+      "supportingClaims": [
+       {
+        "id": "c1",
+        "type": "source_statement",
+        "text": "Section A will consist of two scenario-based questions. The first question will be worth 30 marks and the second question will be worth 20 marks.",
+        "citations": [
+         {
+          "chunkId": "ACCA-SYL-SBRINT-2627:p12:c5",
+          "quote": "Section A will consist of two scenario-based questions. The first question will be worth 30 marks and the second question will be worth 20 marks."
+         }
+        ]
+       },
+       {
+        "id": "c2",
+        "type": "source_statement",
+        "text": "Students will be required to answer a further two questions, each worth 25 marks.",
+        "citations": [
+         {
+          "chunkId": "ACCA-SYL-SBRINT-2627:p13:c1",
+          "quote": "Students will be required to answer a further two questions, each worth 25 marks."
+         }
+        ]
+       },
+       {
+        "id": "c3",
+        "type": "source_statement",
+        "text": "Candidates will need to discuss issues in group accounting and use a spreadsheet to adjust a consolidated financial statement.",
+        "citations": [
+         {
+          "chunkId": "ACCA-SYL-SBRINT-2627:p13:c1",
+          "quote": "Candidates will need to discuss issues in group accounting and use a spreadsheet to adjust a consolidated financial statement."
+         }
+        ]
+       },
+       {
+        "id": "c4",
+        "type": "source_statement",
+        "text": "Section B will always include either a full question, or part of a question, that requires the candidate to consider stakeholder perspectives.",
+        "citations": [
+         {
+          "chunkId": "ACCA-SYL-SBRINT-2627:p13:c1",
+          "quote": "Section B could deal with any aspect of the syllabus but will always include either a full question, or part of a question, that requires the candidate to consider stakeholder perspectives."
+         }
+        ]
+       },
+       {
+        "id": "c5",
+        "type": "source_statement",
+        "text": "It contains two sections and all questions are compulsory.",
+        "citations": [
+         {
+          "chunkId": "ACCA-SYL-SBRINT-2627:p15:c1",
+          "quote": "It contains two sections and all questions are compulsory."
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "id": "T-VERBS",
+     "title": "Command verbs: discuss, explain, evaluate, advise, analyse",
+     "syllabusRefs": [
+      "S7"
+     ],
+     "status": "source-required",
+     "requiredSources": [
+      "ACCA guidance defining command verbs (not supplied)"
+     ]
+    },
+    {
+     "id": "T-MARKER",
+     "title": "What markers reward",
+     "syllabusRefs": [
+      "S7"
+     ],
+     "status": "source-required",
+     "requiredSources": [
+      "ACCA article 'Read the mind of an SBR marker' (referenced by the supplied article; not supplied)",
+      "ACCA article 'Strategic Business Reporting - exam techniques for success' (referenced; not supplied)",
+      "ACCA examiner reports and specimen exam answers (not supplied)"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "MA",
+   "title": "Fundamental ethical and professional principles",
+   "lessons": [
+    {
+     "id": "L-A1",
+     "title": "Professional and ethical behaviour in corporate reporting",
+     "syllabusRefs": [
+      "A1a",
+      "A1b"
+     ],
+     "status": "source-required",
+     "requiredSources": [
+      "Tier 1/3 source needed: the ethical code applied in SBR and ACCA ethics guidance (not supplied)."
+     ],
+     "template": [
+      "Concept and rationale",
+      "Purpose of the standard",
+      "Scope and definitions",
+      "Recognition",
+      "Initial measurement",
+      "Subsequent measurement",
+      "Presentation and disclosure",
+      "Calculations and journals",
+      "Gains, losses, income, expense, assets, liabilities",
+      "Effect on profit or loss, OCI, equity, cash flows",
+      "Consolidation implications",
+      "Exceptions and judgements",
+      "Interaction with other standards",
+      "Common misunderstandings and exam traps",
+      "Ethical considerations",
+      "Business scenario application",
+      "Exam-style questions and worked solutions",
+      "Revision summary and recall questions"
+     ],
+     "note": "Syllabus scope is verified. Technical content is NOT written: no authoritative standard text is loaded, and the tutor will not teach accounting rules from model memory."
+    }
+   ]
+  },
+  {
+   "id": "MB",
+   "title": "The financial reporting framework",
+   "lessons": [
+    {
+     "id": "L-B1",
+     "title": "Applications, strengths and weaknesses of an accounting framework",
+     "syllabusRefs": [
+      "B1a",
+      "B1b",
+      "B1c",
+      "B1d",
+      "B1e"
+     ],
+     "status": "source-required",
+     "requiredSources": [
+      "Tier 1 source needed: the IASB Conceptual Framework text applicable to the session (not supplied)."
+     ],
+     "template": [
+      "Concept and rationale",
+      "Purpose of the standard",
+      "Scope and definitions",
+      "Recognition",
+      "Initial measurement",
+      "Subsequent measurement",
+      "Presentation and disclosure",
+      "Calculations and journals",
+      "Gains, losses, income, expense, assets, liabilities",
+      "Effect on profit or loss, OCI, equity, cash flows",
+      "Consolidation implications",
+      "Exceptions and judgements",
+      "Interaction with other standards",
+      "Common misunderstandings and exam traps",
+      "Ethical considerations",
+      "Business scenario application",
+      "Exam-style questions and worked solutions",
+      "Revision summary and recall questions"
+     ],
+     "note": "Syllabus scope is verified. Technical content is NOT written: no authoritative standard text is loaded, and the tutor will not teach accounting rules from model memory."
+    }
+   ]
+  },
+  {
+   "id": "MC",
+   "title": "Reporting the financial performance of a range of entities",
+   "lessons": [
+    {
+     "id": "L-C1",
+     "title": "Revenue",
+     "syllabusRefs": [
+      "C1a",
+      "C1b",
+      "C1c"
+     ],
+     "status": "source-required",
+     "requiredSources": [
+      "Tier 1 source needed: the relevant IFRS/IAS standard text, plus the ACCA examinable documents (neither supplied)."
+     ],
+     "template": [
+      "Concept and rationale",
+      "Purpose of the standard",
+      "Scope and definitions",
+      "Recognition",
+      "Initial measurement",
+      "Subsequent measurement",
+      "Presentation and disclosure",
+      "Calculations and journals",
+      "Gains, losses, income, expense, assets, liabilities",
+      "Effect on profit or loss, OCI, equity, cash flows",
+      "Consolidation implications",
+      "Exceptions and judgements",
+      "Interaction with other standards",
+      "Common misunderstandings and exam traps",
+      "Ethical considerations",
+      "Business scenario application",
+      "Exam-style questions and worked solutions",
+      "Revision summary and recall questions"
+     ],
+     "note": "Syllabus scope is verified. Technical content is NOT written: no authoritative standard text is loaded, and the tutor will not teach accounting rules from model memory."
+    },
+    {
+     "id": "L-C2",
+     "title": "Non-current assets",
+     "syllabusRefs": [
+      "C2a",
+      "C2b",
+      "C2c",
+      "C2d",
+      "C2e"
+     ],
+     "status": "source-required",
+     "requiredSources": [
+      "Tier 1 source needed: the relevant IFRS/IAS standard text, plus the ACCA examinable documents (neither supplied)."
+     ],
+     "template": [
+      "Concept and rationale",
+      "Purpose of the standard",
+      "Scope and definitions",
+      "Recognition",
+      "Initial measurement",
+      "Subsequent measurement",
+      "Presentation and disclosure",
+      "Calculations and journals",
+      "Gains, losses, income, expense, assets, liabilities",
+      "Effect on profit or loss, OCI, equity, cash flows",
+      "Consolidation implications",
+      "Exceptions and judgements",
+      "Interaction with other standards",
+      "Common misunderstandings and exam traps",
+      "Ethical considerations",
+      "Business scenario application",
+      "Exam-style questions and worked solutions",
+      "Revision summary and recall questions"
+     ],
+     "note": "Syllabus scope is verified. Technical content is NOT written: no authoritative standard text is loaded, and the tutor will not teach accounting rules from model memory."
+    },
+    {
+     "id": "L-C3",
+     "title": "Financial instruments",
+     "syllabusRefs": [
+      "C3a",
+      "C3b",
+      "C3c",
+      "C3d",
+      "C3e",
+      "C3f",
+      "C3g",
+      "C3h",
+      "C3i"
+     ],
+     "status": "source-required",
+     "requiredSources": [
+      "Tier 1 source needed: the relevant IFRS/IAS standard text, plus the ACCA examinable documents (neither supplied)."
+     ],
+     "template": [
+      "Concept and rationale",
+      "Purpose of the standard",
+      "Scope and definitions",
+      "Recognition",
+      "Initial measurement",
+      "Subsequent measurement",
+      "Presentation and disclosure",
+      "Calculations and journals",
+      "Gains, losses, income, expense, assets, liabilities",
+      "Effect on profit or loss, OCI, equity, cash flows",
+      "Consolidation implications",
+      "Exceptions and judgements",
+      "Interaction with other standards",
+      "Common misunderstandings and exam traps",
+      "Ethical considerations",
+      "Business scenario application",
+      "Exam-style questions and worked solutions",
+      "Revision summary and recall questions"
+     ],
+     "note": "Syllabus scope is verified. Technical content is NOT written: no authoritative standard text is loaded, and the tutor will not teach accounting rules from model memory."
+    },
+    {
+     "id": "L-C4",
+     "title": "Leases",
+     "syllabusRefs": [
+      "C4a",
+      "C4b",
+      "C4c",
+      "C4d",
+      "C4e",
+      "C4f"
+     ],
+     "status": "source-required",
+     "requiredSources": [
+      "Tier 1 source needed: the relevant IFRS/IAS standard text, plus the ACCA examinable documents (neither supplied)."
+     ],
+     "template": [
+      "Concept and rationale",
+      "Purpose of the standard",
+      "Scope and definitions",
+      "Recognition",
+      "Initial measurement",
+      "Subsequent measurement",
+      "Presentation and disclosure",
+      "Calculations and journals",
+      "Gains, losses, income, expense, assets, liabilities",
+      "Effect on profit or loss, OCI, equity, cash flows",
+      "Consolidation implications",
+      "Exceptions and judgements",
+      "Interaction with other standards",
+      "Common misunderstandings and exam traps",
+      "Ethical considerations",
+      "Business scenario application",
+      "Exam-style questions and worked solutions",
+      "Revision summary and recall questions"
+     ],
+     "note": "Syllabus scope is verified. Technical content is NOT written: no authoritative standard text is loaded, and the tutor will not teach accounting rules from model memory."
+    },
+    {
+     "id": "L-C5",
+     "title": "Employee benefits",
+     "syllabusRefs": [
+      "C5a",
+      "C5b",
+      "C5c"
+     ],
+     "status": "source-required",
+     "requiredSources": [
+      "Tier 1 source needed: the relevant IFRS/IAS standard text, plus the ACCA examinable documents (neither supplied)."
+     ],
+     "template": [
+      "Concept and rationale",
+      "Purpose of the standard",
+      "Scope and definitions",
+      "Recognition",
+      "Initial measurement",
+      "Subsequent measurement",
+      "Presentation and disclosure",
+      "Calculations and journals",
+      "Gains, losses, income, expense, assets, liabilities",
+      "Effect on profit or loss, OCI, equity, cash flows",
+      "Consolidation implications",
+      "Exceptions and judgements",
+      "Interaction with other standards",
+      "Common misunderstandings and exam traps",
+      "Ethical considerations",
+      "Business scenario application",
+      "Exam-style questions and worked solutions",
+      "Revision summary and recall questions"
+     ],
+     "note": "Syllabus scope is verified. Technical content is NOT written: no authoritative standard text is loaded, and the tutor will not teach accounting rules from model memory."
+    },
+    {
+     "id": "L-C6",
+     "title": "Income taxes",
+     "syllabusRefs": [
+      "C6a",
+      "C6b"
+     ],
+     "status": "source-required",
+     "requiredSources": [
+      "Tier 1 source needed: the relevant IFRS/IAS standard text, plus the ACCA examinable documents (neither supplied)."
+     ],
+     "template": [
+      "Concept and rationale",
+      "Purpose of the standard",
+      "Scope and definitions",
+      "Recognition",
+      "Initial measurement",
+      "Subsequent measurement",
+      "Presentation and disclosure",
+      "Calculations and journals",
+      "Gains, losses, income, expense, assets, liabilities",
+      "Effect on profit or loss, OCI, equity, cash flows",
+      "Consolidation implications",
+      "Exceptions and judgements",
+      "Interaction with other standards",
+      "Common misunderstandings and exam traps",
+      "Ethical considerations",
+      "Business scenario application",
+      "Exam-style questions and worked solutions",
+      "Revision summary and recall questions"
+     ],
+     "note": "Syllabus scope is verified. Technical content is NOT written: no authoritative standard text is loaded, and the tutor will not teach accounting rules from model memory."
+    },
+    {
+     "id": "L-C7",
+     "title": "Provisions, contingencies and events after the reporting period",
+     "syllabusRefs": [
+      "C7a",
+      "C7b"
+     ],
+     "status": "source-required",
+     "requiredSources": [
+      "Tier 1 source needed: the relevant IFRS/IAS standard text, plus the ACCA examinable documents (neither supplied)."
+     ],
+     "template": [
+      "Concept and rationale",
+      "Purpose of the standard",
+      "Scope and definitions",
+      "Recognition",
+      "Initial measurement",
+      "Subsequent measurement",
+      "Presentation and disclosure",
+      "Calculations and journals",
+      "Gains, losses, income, expense, assets, liabilities",
+      "Effect on profit or loss, OCI, equity, cash flows",
+      "Consolidation implications",
+      "Exceptions and judgements",
+      "Interaction with other standards",
+      "Common misunderstandings and exam traps",
+      "Ethical considerations",
+      "Business scenario application",
+      "Exam-style questions and worked solutions",
+      "Revision summary and recall questions"
+     ],
+     "note": "Syllabus scope is verified. Technical content is NOT written: no authoritative standard text is loaded, and the tutor will not teach accounting rules from model memory."
+    },
+    {
+     "id": "L-C8",
+     "title": "Share-based payment",
+     "syllabusRefs": [
+      "C8a"
+     ],
+     "status": "source-required",
+     "requiredSources": [
+      "Tier 1 source needed: the relevant IFRS/IAS standard text, plus the ACCA examinable documents (neither supplied)."
+     ],
+     "template": [
+      "Concept and rationale",
+      "Purpose of the standard",
+      "Scope and definitions",
+      "Recognition",
+      "Initial measurement",
+      "Subsequent measurement",
+      "Presentation and disclosure",
+      "Calculations and journals",
+      "Gains, losses, income, expense, assets, liabilities",
+      "Effect on profit or loss, OCI, equity, cash flows",
+      "Consolidation implications",
+      "Exceptions and judgements",
+      "Interaction with other standards",
+      "Common misunderstandings and exam traps",
+      "Ethical considerations",
+      "Business scenario application",
+      "Exam-style questions and worked solutions",
+      "Revision summary and recall questions"
+     ],
+     "note": "Syllabus scope is verified. Technical content is NOT written: no authoritative standard text is loaded, and the tutor will not teach accounting rules from model memory."
+    },
+    {
+     "id": "L-C9",
+     "title": "Fair value measurement",
+     "syllabusRefs": [
+      "C9a",
+      "C9b",
+      "C9c"
+     ],
+     "status": "source-required",
+     "requiredSources": [
+      "Tier 1 source needed: the relevant IFRS/IAS standard text, plus the ACCA examinable documents (neither supplied)."
+     ],
+     "template": [
+      "Concept and rationale",
+      "Purpose of the standard",
+      "Scope and definitions",
+      "Recognition",
+      "Initial measurement",
+      "Subsequent measurement",
+      "Presentation and disclosure",
+      "Calculations and journals",
+      "Gains, losses, income, expense, assets, liabilities",
+      "Effect on profit or loss, OCI, equity, cash flows",
+      "Consolidation implications",
+      "Exceptions and judgements",
+      "Interaction with other standards",
+      "Common misunderstandings and exam traps",
+      "Ethical considerations",
+      "Business scenario application",
+      "Exam-style questions and worked solutions",
+      "Revision summary and recall questions"
+     ],
+     "note": "Syllabus scope is verified. Technical content is NOT written: no authoritative standard text is loaded, and the tutor will not teach accounting rules from model memory."
+    },
+    {
+     "id": "L-C10",
+     "title": "Presentation and disclosure in financial statements",
+     "syllabusRefs": [
+      "C10a",
+      "C10b",
+      "C10c",
+      "C10d",
+      "C10e",
+      "C10f"
+     ],
+     "status": "source-required",
+     "requiredSources": [
+      "Tier 1 source needed: the relevant IFRS/IAS standard text, plus the ACCA examinable documents (neither supplied)."
+     ],
+     "template": [
+      "Concept and rationale",
+      "Purpose of the standard",
+      "Scope and definitions",
+      "Recognition",
+      "Initial measurement",
+      "Subsequent measurement",
+      "Presentation and disclosure",
+      "Calculations and journals",
+      "Gains, losses, income, expense, assets, liabilities",
+      "Effect on profit or loss, OCI, equity, cash flows",
+      "Consolidation implications",
+      "Exceptions and judgements",
+      "Interaction with other standards",
+      "Common misunderstandings and exam traps",
+      "Ethical considerations",
+      "Business scenario application",
+      "Exam-style questions and worked solutions",
+      "Revision summary and recall questions"
+     ],
+     "note": "Syllabus scope is verified. Technical content is NOT written: no authoritative standard text is loaded, and the tutor will not teach accounting rules from model memory."
+    },
+    {
+     "id": "L-C11",
+     "title": "Other reporting issues",
+     "syllabusRefs": [
+      "C11a",
+      "C11b",
+      "C11c",
+      "C11d",
+      "C11e"
+     ],
+     "status": "source-required",
+     "requiredSources": [
+      "Tier 1 source needed: the relevant IFRS/IAS standard text, plus the ACCA examinable documents (neither supplied)."
+     ],
+     "template": [
+      "Concept and rationale",
+      "Purpose of the standard",
+      "Scope and definitions",
+      "Recognition",
+      "Initial measurement",
+      "Subsequent measurement",
+      "Presentation and disclosure",
+      "Calculations and journals",
+      "Gains, losses, income, expense, assets, liabilities",
+      "Effect on profit or loss, OCI, equity, cash flows",
+      "Consolidation implications",
+      "Exceptions and judgements",
+      "Interaction with other standards",
+      "Common misunderstandings and exam traps",
+      "Ethical considerations",
+      "Business scenario application",
+      "Exam-style questions and worked solutions",
+      "Revision summary and recall questions"
+     ],
+     "note": "Syllabus scope is verified. Technical content is NOT written: no authoritative standard text is loaded, and the tutor will not teach accounting rules from model memory."
+    }
+   ]
+  },
+  {
+   "id": "MD",
+   "title": "Financial statements of groups of entities",
+   "lessons": [
+    {
+     "id": "L-D1",
+     "title": "Group accounting including statements of cash flows",
+     "syllabusRefs": [
+      "D1a",
+      "D1b",
+      "D1c",
+      "D1d",
+      "D1e",
+      "D1f",
+      "D1g",
+      "D1h",
+      "D1i",
+      "D1j",
+      "D1k",
+      "D1l",
+      "D1m"
+     ],
+     "status": "source-required",
+     "requiredSources": [
+      "Tier 1 source needed: the relevant group-accounting standards text, plus the ACCA examinable documents (neither supplied)."
+     ],
+     "template": [
+      "Concept and rationale",
+      "Purpose of the standard",
+      "Scope and definitions",
+      "Recognition",
+      "Initial measurement",
+      "Subsequent measurement",
+      "Presentation and disclosure",
+      "Calculations and journals",
+      "Gains, losses, income, expense, assets, liabilities",
+      "Effect on profit or loss, OCI, equity, cash flows",
+      "Consolidation implications",
+      "Exceptions and judgements",
+      "Interaction with other standards",
+      "Common misunderstandings and exam traps",
+      "Ethical considerations",
+      "Business scenario application",
+      "Exam-style questions and worked solutions",
+      "Revision summary and recall questions"
+     ],
+     "note": "Syllabus scope is verified. Technical content is NOT written: no authoritative standard text is loaded, and the tutor will not teach accounting rules from model memory."
+    },
+    {
+     "id": "L-D2",
+     "title": "Associates and joint arrangements",
+     "syllabusRefs": [
+      "D2a",
+      "D2b"
+     ],
+     "status": "source-required",
+     "requiredSources": [
+      "Tier 1 source needed: the relevant group-accounting standards text, plus the ACCA examinable documents (neither supplied)."
+     ],
+     "template": [
+      "Concept and rationale",
+      "Purpose of the standard",
+      "Scope and definitions",
+      "Recognition",
+      "Initial measurement",
+      "Subsequent measurement",
+      "Presentation and disclosure",
+      "Calculations and journals",
+      "Gains, losses, income, expense, assets, liabilities",
+      "Effect on profit or loss, OCI, equity, cash flows",
+      "Consolidation implications",
+      "Exceptions and judgements",
+      "Interaction with other standards",
+      "Common misunderstandings and exam traps",
+      "Ethical considerations",
+      "Business scenario application",
+      "Exam-style questions and worked solutions",
+      "Revision summary and recall questions"
+     ],
+     "note": "Syllabus scope is verified. Technical content is NOT written: no authoritative standard text is loaded, and the tutor will not teach accounting rules from model memory."
+    },
+    {
+     "id": "L-D3",
+     "title": "Foreign transactions and entities",
+     "syllabusRefs": [
+      "D3a",
+      "D3b"
+     ],
+     "status": "source-required",
+     "requiredSources": [
+      "Tier 1 source needed: the relevant group-accounting standards text, plus the ACCA examinable documents (neither supplied)."
+     ],
+     "template": [
+      "Concept and rationale",
+      "Purpose of the standard",
+      "Scope and definitions",
+      "Recognition",
+      "Initial measurement",
+      "Subsequent measurement",
+      "Presentation and disclosure",
+      "Calculations and journals",
+      "Gains, losses, income, expense, assets, liabilities",
+      "Effect on profit or loss, OCI, equity, cash flows",
+      "Consolidation implications",
+      "Exceptions and judgements",
+      "Interaction with other standards",
+      "Common misunderstandings and exam traps",
+      "Ethical considerations",
+      "Business scenario application",
+      "Exam-style questions and worked solutions",
+      "Revision summary and recall questions"
+     ],
+     "note": "Syllabus scope is verified. Technical content is NOT written: no authoritative standard text is loaded, and the tutor will not teach accounting rules from model memory."
+    }
+   ]
+  },
+  {
+   "id": "ME",
+   "title": "Interpret financial and non-financial information for different stakeholders",
+   "lessons": [
+    {
+     "id": "L-E1",
+     "title": "Analysis and interpretation of financial and non-financial information and measurement of performance",
+     "syllabusRefs": [
+      "E1a",
+      "E1b",
+      "E1c"
+     ],
+     "status": "source-required",
+     "requiredSources": [
+      "Tier 1/3 source needed: the relevant standards text, ACCA guidance on performance measures (not supplied)."
+     ],
+     "template": [
+      "Concept and rationale",
+      "Purpose of the standard",
+      "Scope and definitions",
+      "Recognition",
+      "Initial measurement",
+      "Subsequent measurement",
+      "Presentation and disclosure",
+      "Calculations and journals",
+      "Gains, losses, income, expense, assets, liabilities",
+      "Effect on profit or loss, OCI, equity, cash flows",
+      "Consolidation implications",
+      "Exceptions and judgements",
+      "Interaction with other standards",
+      "Common misunderstandings and exam traps",
+      "Ethical considerations",
+      "Business scenario application",
+      "Exam-style questions and worked solutions",
+      "Revision summary and recall questions"
+     ],
+     "note": "Syllabus scope is verified. Technical content is NOT written: no authoritative standard text is loaded, and the tutor will not teach accounting rules from model memory."
+    }
+   ]
+  },
+  {
+   "id": "MF",
+   "title": "The impact of changes and potential changes in accounting regulation",
+   "lessons": [
+    {
+     "id": "L-F1",
+     "title": "Discussion of issues in financial reporting",
+     "syllabusRefs": [
+      "F1a",
+      "F1b",
+      "F1c"
+     ],
+     "status": "source-required",
+     "requiredSources": [
+      "Tier 1 source needed: IFRS Sustainability Disclosure Standards and ESRS comparison material, plus examinable documents (not supplied)."
+     ],
+     "template": [
+      "Concept and rationale",
+      "Purpose of the standard",
+      "Scope and definitions",
+      "Recognition",
+      "Initial measurement",
+      "Subsequent measurement",
+      "Presentation and disclosure",
+      "Calculations and journals",
+      "Gains, losses, income, expense, assets, liabilities",
+      "Effect on profit or loss, OCI, equity, cash flows",
+      "Consolidation implications",
+      "Exceptions and judgements",
+      "Interaction with other standards",
+      "Common misunderstandings and exam traps",
+      "Ethical considerations",
+      "Business scenario application",
+      "Exam-style questions and worked solutions",
+      "Revision summary and recall questions"
+     ],
+     "note": "Syllabus scope is verified. Technical content is NOT written: no authoritative standard text is loaded, and the tutor will not teach accounting rules from model memory."
+    }
+   ]
+  },
+  {
+   "id": "MG",
+   "title": "Employability and technology skills",
+   "lessons": [
+    {
+     "id": "L-G",
+     "title": "Employability and technology skills",
+     "syllabusRefs": [
+      "G1",
+      "G2",
+      "G3",
+      "G4"
+     ],
+     "status": "source-required",
+     "requiredSources": [
+      "Tier 3 source needed: ACCA computer-based exam practice platform guidance (not supplied)."
+     ],
+     "template": [
+      "Concept and rationale",
+      "Purpose of the standard",
+      "Scope and definitions",
+      "Recognition",
+      "Initial measurement",
+      "Subsequent measurement",
+      "Presentation and disclosure",
+      "Calculations and journals",
+      "Gains, losses, income, expense, assets, liabilities",
+      "Effect on profit or loss, OCI, equity, cash flows",
+      "Consolidation implications",
+      "Exceptions and judgements",
+      "Interaction with other standards",
+      "Common misunderstandings and exam traps",
+      "Ethical considerations",
+      "Business scenario application",
+      "Exam-style questions and worked solutions",
+      "Revision summary and recall questions"
+     ],
+     "note": "Syllabus scope is verified. Technical content is NOT written: no authoritative standard text is loaded, and the tutor will not teach accounting rules from model memory."
+    }
+   ]
+  }
+ ],
+ "diagnostic": {
+  "part1": "Self-rating of confidence per syllabus area (1-5). Self-assessment only: it is not a knowledge test and is never shown as a score.",
+  "part2": "Scored recall questions drawn from verified questions (exam structure and approach).",
+  "part2QuestionIds": [
+   "Q-S7-001",
+   "Q-S7-002",
+   "Q-S7-003",
+   "Q-S7-004",
+   "Q-S7-005",
+   "Q-S7-006",
+   "Q-S9-001",
+   "Q-S9-002"
+  ]
+ }
+}

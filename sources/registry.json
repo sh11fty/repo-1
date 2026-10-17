@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "exam": "SBR-INT",
+  "targetSession": { "id": "2026-09..2027-06", "from": "2026-09-01", "to": "2027-06-30" },
+  "authorityNote": "Scope is controlled by the syllabus (tier 2). Technical requirements must come from tier 1 text. ACCA-specific exam expectations come from tier 3. No tier 1 source has been supplied yet, so technical IFRS questions cannot currently be answered definitively.",
+  "sources": [
+    {
+      "id": "ACCA-SYL-SBRINT-2627",
+      "title": "Strategic Business Reporting (SBR-INT) Syllabus and study guide, September 2026 to June 2027",
+      "publisher": "ACCA",
+      "tier": 2,
+      "kind": "syllabus",
+      "version": "S26-J27",
+      "publicationDate": "2026-01-06",
+      "publicationDateBasis": "PDF creation-date metadata only; the document itself states only '© ACCA 2026-2027'",
+      "effectiveFrom": "2026-09-01",
+      "sessions": ["2026-09..2027-06"],
+      "status": "approved",
+      "file": "sources/raw/acca-sbr-int-syllabus-2026-27.pdf",
+      "sha256": "1c2026d710d0adc3bf1677eedec4fa1816fe856f48d09e50f135648beebf4dc9",
+      "access": "user-supplied-file (direct read of the PDF text)",
+      "authenticity": "Supplied by the user as the official ACCA document. Hash recorded; publisher authenticity cannot be independently verified from here.",
+      "pageNumbering": "PDF page index equals the printed page number",
+      "usage": "Private study. Extracted text is kept local (gitignored) and excerpts are shown only as short quotations with page references.",
+      "notes": "Section 11 of this document states that ACCA publishes separate examinable documents; those have NOT been supplied."
+    },
+    {
+      "id": "ACCA-ART-SBR-STEPUP",
+      "title": "Strategic Business Reporting - Stepping up from Financial Reporting (FR)",
+      "publisher": "ACCA",
+      "tier": 3,
+      "kind": "technical-article",
+      "version": "June 2025",
+      "publicationDate": "2025-06",
+      "publicationDateBasis": "Stated on the back page: '© ACCA JUNE 2025'",
+      "effectiveFrom": null,
+      "sessions": ["2026-09..2027-06"],
+      "status": "approved",
+      "file": "sources/raw/acca-sbr-stepping-up-from-fr.pdf",
+      "sha256": "d7a947e71adfa1581ad16dd1ee771af24ea6d4b36913d70499dddc97256852c8",
+      "access": "user-supplied-file (image-only PDF; text obtained by OCR with tesseract, so OCR errors are possible)",
+      "extraction": "ocr",
+      "authenticity": "Supplied by the user as an ACCA article. Hash recorded; not independently verified.",
+      "caveat": "Written June 2025, before the 2026-27 syllabus. Where it conflicts with the S26-J27 syllabus, the syllabus controls. Use for general approach only.",
+      "pageNumbering": "PDF page index equals the printed page number",
+      "usage": "Private study; short quotations only."
+    }
+  ],
+  "missingSources": [
+    { "id": "ACCA-EXDOC-SBR-2627", "description": "ACCA examinable documents for SBR 2026-27 (states which standards and amendments are examinable)", "needed": true, "status": "not-provided", "impact": "Examinability of individual standards and recent amendments cannot be confirmed; the engine reports 'needs-verification' rather than guessing." },
+    { "id": "IFRS-ACCOUNTING-STANDARDS", "description": "Authentic IFRS Accounting Standards / IAS text and Conceptual Framework applicable to the session (tier 1)", "needed": true, "status": "not-provided", "impact": "No technical accounting rule can be taught or marked as verified. ifrs.org is blocked from this workspace; the standards are licensed content and must be supplied by the user from a licensed copy." },
+    { "id": "IFRS-SUSTAINABILITY-STANDARDS", "description": "IFRS S1 / S2 text and ESRS comparison material (syllabus F1 c)", "needed": true, "status": "not-provided", "impact": "Sustainability disclosure content cannot be verified." },
+    { "id": "ACCA-STUDYHUB-SBR", "description": "ACCA Study Hub SBR-INT content for Sept 2026-June 2027", "needed": true, "status": "inaccessible", "impact": "The Study Hub URL returns a login page to this workspace and the host is blocked from the shell. No Study Hub content has been read." },
+    { "id": "ACCA-EXAM-GUIDANCE", "description": "ACCA specimen exams, past papers, examiner reports, 'Read the mind of an SBR marker' and 'exam techniques for success' articles", "needed": true, "status": "not-provided", "impact": "No official questions or marking schemes are available; all marking is indicative and labelled as such." },
+    { "id": "TEXTBOOK-2024-SBR", "description": "User's 2024 SBR textbook (tier 5, supplementary)", "needed": false, "status": "not-provided", "impact": "Would be usable only after cross-checking against tier 1 sources." }
+  ]
+}

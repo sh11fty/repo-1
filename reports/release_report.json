@@ -1,0 +1,72 @@
+{
+ "generatedAt": "2026-10-17T11:10:09.938Z",
+ "result": "PASS",
+ "checks": [
+  {
+   "name": "zero critical failures in the adversarial suite",
+   "ok": true
+  },
+  {
+   "name": "no adversarial case released",
+   "ok": true
+  },
+  {
+   "name": "unsupported-claim rate in released answers is 0 (independent oracle)",
+   "ok": true
+  },
+  {
+   "name": "citation validity in released answers is 1",
+   "ok": true
+  },
+  {
+   "name": "correct abstention/rejection rate is 1",
+   "ok": true
+  },
+  {
+   "name": "positive controls accepted (no over-blocking)",
+   "ok": true
+  },
+  {
+   "name": "node test run passes with none skipped",
+   "ok": true
+  },
+  {
+   "name": "shipped content validates against the corpus",
+   "ok": true
+  }
+ ],
+ "adversarial": {
+  "cases": 49,
+  "passed": 49,
+  "criticalCases": 44,
+  "criticalFailures": 0,
+  "hallucinationCasesReleased": 0,
+  "correctAbstentionOrRejectionRate": 1,
+  "honestAnswerAcceptanceRate": 1,
+  "releasedClaims": 10,
+  "unsupportedClaimRateInReleased": 0,
+  "citationValidityInReleased": 1
+ },
+ "tests": {
+  "total": 112,
+  "pass": 112,
+  "fail": 0,
+  "skipped": 0,
+  "exitCode": 0
+ },
+ "content": {
+  "ok": true,
+  "counts": {
+   "los": 79,
+   "questions": 19,
+   "lessons": 26
+  },
+  "errors": []
+ },
+ "notClaimed": [
+  "Zero real-world hallucinations is NOT claimed and cannot be guaranteed.",
+  "The adversarial suite uses scripted stub models (isStub) and synthetic fixture sources. It proves the pipeline rejects or abstains correctly given bad model output; it does not measure any real model's hallucination rate. Run `npm run eval:live` with a real key for that.",
+  "Independent human review of high-risk cases has NOT been done. Marking agreement was measured against author-written reference judgements, not independent examiner marking.",
+  "No IFRS/IAS standard text, ACCA examinable documents, Study Hub content or official past papers are loaded, so technical accounting teaching is declined and coverage is not claimed."
+ ]
+}

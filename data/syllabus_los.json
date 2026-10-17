@@ -1,0 +1,1154 @@
+{
+ "source": "ACCA-SYL-SBRINT-2627",
+ "note": "Labels are the project's own short paraphrases, not syllabus wording. The anchor is a short verbatim tail used only to machine-check the page and intellectual level against the ingested syllabus text.",
+ "los": [
+  {
+   "id": "A1a",
+   "area": "A",
+   "areaName": "Fundamental ethical and professional principles",
+   "section": "Professional and ethical behaviour in corporate reporting",
+   "label": "Why ethical and professional behaviour matters for complying with accounting and sustainability standards",
+   "level": 3,
+   "page": 7,
+   "anchor": "in contemporary business scenarios",
+   "keywords": [
+    "ethic",
+    "professional",
+    "behaviour",
+    "compliance",
+    "sustainability"
+   ]
+  },
+  {
+   "id": "A1b",
+   "area": "A",
+   "areaName": "Fundamental ethical and professional principles",
+   "section": "Professional and ethical behaviour in corporate reporting",
+   "label": "Consequences of unethical behaviour by management in preparing corporate reports",
+   "level": 3,
+   "page": 7,
+   "anchor": "preparation of corporate reports",
+   "keywords": [
+    "unethical",
+    "management",
+    "consequence"
+   ]
+  },
+  {
+   "id": "B1a",
+   "area": "B",
+   "areaName": "The financial reporting framework",
+   "section": "Applications, strengths and weaknesses of an accounting framework",
+   "label": "Role of the Conceptual Framework in underpinning accounting standards",
+   "level": 3,
+   "page": 7,
+   "anchor": "production of accounting standards",
+   "keywords": [
+    "conceptual framework",
+    "standards"
+   ]
+  },
+  {
+   "id": "B1b",
+   "area": "B",
+   "areaName": "The financial reporting framework",
+   "section": "Applications, strengths and weaknesses of an accounting framework",
+   "label": "Objectives, principles and limits of financial reporting, including presentation and disclosure",
+   "level": 3,
+   "page": 7,
+   "anchor": "presentation and disclosure of information",
+   "keywords": [
+    "objective",
+    "limitation",
+    "disclosure"
+   ]
+  },
+  {
+   "id": "B1c",
+   "area": "B",
+   "areaName": "The financial reporting framework",
+   "section": "Applications, strengths and weaknesses of an accounting framework",
+   "label": "Qualitative characteristics of useful financial information",
+   "level": 3,
+   "page": 7,
+   "anchor": "including disclosure",
+   "keywords": [
+    "qualitative",
+    "characteristic",
+    "useful"
+   ]
+  },
+  {
+   "id": "B1d",
+   "area": "B",
+   "areaName": "The financial reporting framework",
+   "section": "Applications, strengths and weaknesses of an accounting framework",
+   "label": "Recognition, derecognition and measurement principles, measurement uncertainty and materiality",
+   "level": 3,
+   "page": 7,
+   "anchor": "measurement uncertainty and materiality",
+   "keywords": [
+    "recognition",
+    "derecognition",
+    "measurement",
+    "materiality"
+   ]
+  },
+  {
+   "id": "B1e",
+   "area": "B",
+   "areaName": "The financial reporting framework",
+   "section": "Applications, strengths and weaknesses of an accounting framework",
+   "label": "Definitions of the elements of financial statements and items in profit or loss and OCI",
+   "level": 3,
+   "page": 7,
+   "anchor": "other comprehensive income",
+   "keywords": [
+    "element",
+    "definition",
+    "profit",
+    "comprehensive"
+   ]
+  },
+  {
+   "id": "C1a",
+   "area": "C",
+   "areaName": "Reporting the financial performance of a range of entities",
+   "section": "Revenue",
+   "label": "Criteria to be met before revenue is recognised",
+   "level": 3,
+   "page": 7,
+   "anchor": "can recognise revenue",
+   "keywords": [
+    "revenue",
+    "recognise",
+    "criteria"
+   ]
+  },
+  {
+   "id": "C1b",
+   "area": "C",
+   "areaName": "Reporting the financial performance of a range of entities",
+   "section": "Revenue",
+   "label": "Contract revenue and contract cost recognition, including modifications",
+   "level": 3,
+   "page": 7,
+   "anchor": "including contract modifications",
+   "keywords": [
+    "contract",
+    "revenue",
+    "modification"
+   ]
+  },
+  {
+   "id": "C1c",
+   "area": "C",
+   "areaName": "Reporting the financial performance of a range of entities",
+   "section": "Revenue",
+   "label": "Revenue measurement topics: over-time obligations, returns, repurchase, consignment, warranties, variable consideration, principal v agent, upfront fees",
+   "level": 3,
+   "page": 7,
+   "anchor": "non-refundable upfront fees",
+   "keywords": [
+    "performance obligation",
+    "warranty",
+    "consignment",
+    "agent",
+    "variable consideration"
+   ]
+  },
+  {
+   "id": "C2a",
+   "area": "C",
+   "areaName": "Reporting the financial performance of a range of entities",
+   "section": "Non-current assets",
+   "label": "Recognition, derecognition and measurement of non-current assets, impairments and revaluations",
+   "level": 3,
+   "page": 7,
+   "anchor": "including impairments and revaluations",
+   "keywords": [
+    "non-current",
+    "impairment",
+    "revaluation"
+   ]
+  },
+  {
+   "id": "C2b",
+   "area": "C",
+   "areaName": "Reporting the financial performance of a range of entities",
+   "section": "Non-current assets",
+   "label": "Classification and measurement of non-current assets held for sale",
+   "level": 3,
+   "page": 7,
+   "anchor": "held for sale",
+   "keywords": [
+    "held for sale"
+   ]
+  },
+  {
+   "id": "C2c",
+   "area": "C",
+   "areaName": "Reporting the financial performance of a range of entities",
+   "section": "Non-current assets",
+   "label": "Investment properties: classification, recognition, measurement, change of use",
+   "level": 3,
+   "page": 7,
+   "anchor": "change of use",
+   "keywords": [
+    "investment property"
+   ]
+  },
+  {
+   "id": "C2d",
+   "area": "C",
+   "areaName": "Reporting the financial performance of a range of entities",
+   "section": "Non-current assets",
+   "label": "Intangible assets: recognition criteria and subsequent measurement",
+   "level": 3,
+   "page": 7,
+   "anchor": "subsequent to acquisition",
+   "keywords": [
+    "intangible"
+   ]
+  },
+  {
+   "id": "C2e",
+   "area": "C",
+   "areaName": "Reporting the financial performance of a range of entities",
+   "section": "Non-current assets",
+   "label": "Borrowing costs",
+   "level": 2,
+   "page": 8,
+   "anchor": "for borrowing costs",
+   "keywords": [
+    "borrowing cost"
+   ]
+  },
+  {
+   "id": "C3a",
+   "area": "C",
+   "areaName": "Reporting the financial performance of a range of entities",
+   "section": "Financial instruments",
+   "label": "Initial recognition and measurement of financial instruments, business model test",
+   "level": 3,
+   "page": 8,
+   "anchor": "including the business model test",
+   "keywords": [
+    "financial instrument",
+    "business model"
+   ]
+  },
+  {
+   "id": "C3b",
+   "area": "C",
+   "areaName": "Reporting the financial performance of a range of entities",
+   "section": "Financial instruments",
+   "label": "Subsequent measurement of financial assets and liabilities, fair value option, liability modifications",
+   "level": 3,
+   "page": 8,
+   "anchor": "financial liability modifications",
+   "keywords": [
+    "subsequent measurement",
+    "fair value option",
+    "modification"
+   ]
+  },
+  {
+   "id": "C3c",
+   "area": "C",
+   "areaName": "Reporting the financial performance of a range of entities",
+   "section": "Financial instruments",
+   "label": "Derecognition of financial assets and financial liabilities",
+   "level": 2,
+   "page": 8,
+   "anchor": "derecognition of financial assets and financial liabilities",
+   "keywords": [
+    "derecognition"
+   ]
+  },
+  {
+   "id": "C3d",
+   "area": "C",
+   "areaName": "Reporting the financial performance of a range of entities",
+   "section": "Financial instruments",
+   "label": "Reclassification of financial assets",
+   "level": 2,
+   "page": 8,
+   "anchor": "reclassification of financial assets",
+   "keywords": [
+    "reclassification"
+   ]
+  },
+  {
+   "id": "C3e",
+   "area": "C",
+   "areaName": "Reporting the financial performance of a range of entities",
+   "section": "Financial instruments",
+   "label": "Accounting for derivative financial instruments",
+   "level": 2,
+   "page": 8,
+   "anchor": "derivative financial instruments",
+   "keywords": [
+    "derivative"
+   ]
+  },
+  {
+   "id": "C3f",
+   "area": "C",
+   "areaName": "Reporting the financial performance of a range of entities",
+   "section": "Financial instruments",
+   "label": "Hedge accounting criteria, fair value and cash flow hedges, effectiveness",
+   "level": 2,
+   "page": 8,
+   "anchor": "including hedge effectiveness",
+   "keywords": [
+    "hedge",
+    "effectiveness"
+   ]
+  },
+  {
+   "id": "C3g",
+   "area": "C",
+   "areaName": "Reporting the financial performance of a range of entities",
+   "section": "Financial instruments",
+   "label": "General approach to impairment of financial instruments, expected credit losses",
+   "level": 2,
+   "page": 8,
+   "anchor": "expected credit losses",
+   "keywords": [
+    "impairment",
+    "expected credit loss"
+   ]
+  },
+  {
+   "id": "C3h",
+   "area": "C",
+   "areaName": "Reporting the financial performance of a range of entities",
+   "section": "Financial instruments",
+   "label": "Implications of a significant increase in credit risk",
+   "level": 2,
+   "page": 8,
+   "anchor": "significant increase in credit risk",
+   "keywords": [
+    "credit risk"
+   ]
+  },
+  {
+   "id": "C3i",
+   "area": "C",
+   "areaName": "Reporting the financial performance of a range of entities",
+   "section": "Financial instruments",
+   "label": "Purchased or originated credit-impaired financial assets",
+   "level": 2,
+   "page": 8,
+   "anchor": "originated credit impaired financial assets",
+   "keywords": [
+    "credit impaired"
+   ]
+  },
+  {
+   "id": "C4a",
+   "area": "C",
+   "areaName": "Reporting the financial performance of a range of entities",
+   "section": "Leases",
+   "label": "Lessee accounting: identifying a lease, right-of-use asset and lease liability",
+   "level": 3,
+   "page": 8,
+   "anchor": "right-of-use asset and lease liability",
+   "keywords": [
+    "lessee",
+    "right-of-use",
+    "lease liability"
+   ]
+  },
+  {
+   "id": "C4b",
+   "area": "C",
+   "areaName": "Reporting the financial performance of a range of entities",
+   "section": "Leases",
+   "label": "Lessor accounting including subleases",
+   "level": 3,
+   "page": 8,
+   "anchor": "including accounting for subleases",
+   "keywords": [
+    "lessor",
+    "sublease"
+   ]
+  },
+  {
+   "id": "C4c",
+   "area": "C",
+   "areaName": "Reporting the financial performance of a range of entities",
+   "section": "Leases",
+   "label": "Re-measurement of the lease liability",
+   "level": 3,
+   "page": 8,
+   "anchor": "re-measurement of the lease liability",
+   "keywords": [
+    "re-measurement",
+    "lease liability"
+   ]
+  },
+  {
+   "id": "C4d",
+   "area": "C",
+   "areaName": "Reporting the financial performance of a range of entities",
+   "section": "Leases",
+   "label": "Separating lease and non-lease components",
+   "level": 3,
+   "page": 8,
+   "anchor": "lease and non-lease elements",
+   "keywords": [
+    "non-lease",
+    "component"
+   ]
+  },
+  {
+   "id": "C4e",
+   "area": "C",
+   "areaName": "Reporting the financial performance of a range of entities",
+   "section": "Leases",
+   "label": "Recognition exemptions in the leasing standard",
+   "level": 3,
+   "page": 8,
+   "anchor": "under the current leasing standard",
+   "keywords": [
+    "exemption",
+    "lease"
+   ]
+  },
+  {
+   "id": "C4f",
+   "area": "C",
+   "areaName": "Reporting the financial performance of a range of entities",
+   "section": "Leases",
+   "label": "Sale and leaseback transactions",
+   "level": 3,
+   "page": 8,
+   "anchor": "sale and leaseback transactions",
+   "keywords": [
+    "sale and leaseback"
+   ]
+  },
+  {
+   "id": "C5a",
+   "area": "C",
+   "areaName": "Reporting the financial performance of a range of entities",
+   "section": "Employee benefits",
+   "label": "Short and long-term employee benefits, termination benefits, defined contribution and defined benefit plans",
+   "level": 3,
+   "page": 8,
+   "anchor": "defined contribution and defined benefit plans",
+   "keywords": [
+    "employee benefit",
+    "defined benefit",
+    "termination"
+   ]
+  },
+  {
+   "id": "C5b",
+   "area": "C",
+   "areaName": "Reporting the financial performance of a range of entities",
+   "section": "Employee benefits",
+   "label": "Gains and losses on settlements and curtailments",
+   "level": 2,
+   "page": 8,
+   "anchor": "settlements and curtailments",
+   "keywords": [
+    "settlement",
+    "curtailment"
+   ]
+  },
+  {
+   "id": "C5c",
+   "area": "C",
+   "areaName": "Reporting the financial performance of a range of entities",
+   "section": "Employee benefits",
+   "label": "Asset ceiling test and reporting of actuarial gains and losses",
+   "level": 2,
+   "page": 8,
+   "anchor": "reporting of actuarial gains and losses",
+   "keywords": [
+    "asset ceiling",
+    "actuarial"
+   ]
+  },
+  {
+   "id": "C6a",
+   "area": "C",
+   "areaName": "Reporting the financial performance of a range of entities",
+   "section": "Income taxes",
+   "label": "Current and deferred tax liabilities and assets: recognition and measurement",
+   "level": 3,
+   "page": 8,
+   "anchor": "deferred tax liabilities and assets",
+   "keywords": [
+    "deferred tax",
+    "current tax"
+   ]
+  },
+  {
+   "id": "C6b",
+   "area": "C",
+   "areaName": "Reporting the financial performance of a range of entities",
+   "section": "Income taxes",
+   "label": "Deferred tax on a business combination",
+   "level": 2,
+   "page": 8,
+   "anchor": "deferred taxation on a business combination",
+   "keywords": [
+    "deferred",
+    "business combination"
+   ]
+  },
+  {
+   "id": "C7a",
+   "area": "C",
+   "areaName": "Reporting the financial performance of a range of entities",
+   "section": "Provisions, contingencies and events after the reporting period",
+   "label": "Provisions, contingent liabilities and assets, onerous contracts, environmental and restructuring provisions",
+   "level": 3,
+   "page": 9,
+   "anchor": "restructuring provisions",
+   "keywords": [
+    "provision",
+    "contingent",
+    "onerous",
+    "restructuring"
+   ]
+  },
+  {
+   "id": "C7b",
+   "area": "C",
+   "areaName": "Reporting the financial performance of a range of entities",
+   "section": "Provisions, contingencies and events after the reporting period",
+   "label": "Events after the reporting period",
+   "level": 3,
+   "page": 9,
+   "anchor": "events after the reporting period",
+   "keywords": [
+    "events after"
+   ]
+  },
+  {
+   "id": "C8a",
+   "area": "C",
+   "areaName": "Reporting the financial performance of a range of entities",
+   "section": "Share-based payment",
+   "label": "Share-based payment recognition and measurement",
+   "level": 3,
+   "page": 9,
+   "anchor": "share-based payment transactions",
+   "keywords": [
+    "share-based"
+   ]
+  },
+  {
+   "id": "C9a",
+   "area": "C",
+   "areaName": "Reporting the financial performance of a range of entities",
+   "section": "Fair value measurement",
+   "label": "Fair value measurement principles and active market",
+   "level": 3,
+   "page": 9,
+   "anchor": "active market'",
+   "keywords": [
+    "fair value",
+    "active market"
+   ]
+  },
+  {
+   "id": "C9b",
+   "area": "C",
+   "areaName": "Reporting the financial performance of a range of entities",
+   "section": "Fair value measurement",
+   "label": "Fair value hierarchy and valuation techniques",
+   "level": 3,
+   "page": 9,
+   "anchor": "including valuation techniques",
+   "keywords": [
+    "hierarchy",
+    "valuation technique"
+   ]
+  },
+  {
+   "id": "C9c",
+   "area": "C",
+   "areaName": "Reporting the financial performance of a range of entities",
+   "section": "Fair value measurement",
+   "label": "Highest and best use, most advantageous and principal market",
+   "level": 3,
+   "page": 9,
+   "anchor": "most advantageous and principal market",
+   "keywords": [
+    "highest and best use",
+    "principal market"
+   ]
+  },
+  {
+   "id": "C10a",
+   "area": "C",
+   "areaName": "Reporting the financial performance of a range of entities",
+   "section": "Presentation and disclosure in financial statements",
+   "label": "Format, content and presentation of the statement of profit or loss and OCI",
+   "level": 3,
+   "page": 9,
+   "anchor": "statement of profit or loss and other comprehensive income",
+   "keywords": [
+    "profit or loss",
+    "presentation"
+   ]
+  },
+  {
+   "id": "C10b",
+   "area": "C",
+   "areaName": "Reporting the financial performance of a range of entities",
+   "section": "Presentation and disclosure in financial statements",
+   "label": "Format and presentation of the statement of financial position, current v non-current",
+   "level": 3,
+   "page": 9,
+   "anchor": "current or non-current",
+   "keywords": [
+    "financial position",
+    "current"
+   ]
+  },
+  {
+   "id": "C10c",
+   "area": "C",
+   "areaName": "Reporting the financial performance of a range of entities",
+   "section": "Presentation and disclosure in financial statements",
+   "label": "Format, content and presentation of the statement of cash flows",
+   "level": 3,
+   "page": 9,
+   "anchor": "presentation of the statement of cash flows",
+   "keywords": [
+    "cash flow"
+   ]
+  },
+  {
+   "id": "C10d",
+   "area": "C",
+   "areaName": "Reporting the financial performance of a range of entities",
+   "section": "Presentation and disclosure in financial statements",
+   "label": "Aggregation, disaggregation and offsetting in statements and notes",
+   "level": 3,
+   "page": 9,
+   "anchor": "financial statements and disclosure notes",
+   "keywords": [
+    "aggregation",
+    "disaggregation",
+    "offsetting"
+   ]
+  },
+  {
+   "id": "C10e",
+   "area": "C",
+   "areaName": "Reporting the financial performance of a range of entities",
+   "section": "Presentation and disclosure in financial statements",
+   "label": "Principles that maximise the usefulness of disclosure notes",
+   "level": 3,
+   "page": 9,
+   "anchor": "usefulness of disclosure notes",
+   "keywords": [
+    "disclosure",
+    "notes"
+   ]
+  },
+  {
+   "id": "C10f",
+   "area": "C",
+   "areaName": "Reporting the financial performance of a range of entities",
+   "section": "Presentation and disclosure in financial statements",
+   "label": "Disclosure of management-defined performance measures",
+   "level": 3,
+   "page": 9,
+   "anchor": "management-defined performance measures",
+   "keywords": [
+    "management-defined"
+   ]
+  },
+  {
+   "id": "C11a",
+   "area": "C",
+   "areaName": "Reporting the financial performance of a range of entities",
+   "section": "Other reporting issues",
+   "label": "Government grants and other government assistance",
+   "level": 3,
+   "page": 9,
+   "anchor": "other forms of government assistance",
+   "keywords": [
+    "government grant"
+   ]
+  },
+  {
+   "id": "C11b",
+   "area": "C",
+   "areaName": "Reporting the financial performance of a range of entities",
+   "section": "Other reporting issues",
+   "label": "Accounting policies, changes in estimates and prior period errors",
+   "level": 3,
+   "page": 9,
+   "anchor": "prior period errors",
+   "keywords": [
+    "accounting policies",
+    "estimate",
+    "error"
+   ]
+  },
+  {
+   "id": "C11c",
+   "area": "C",
+   "areaName": "Reporting the financial performance of a range of entities",
+   "section": "Other reporting issues",
+   "label": "Going concern",
+   "level": 3,
+   "page": 9,
+   "anchor": "relating to going concern",
+   "keywords": [
+    "going concern"
+   ]
+  },
+  {
+   "id": "C11d",
+   "area": "C",
+   "areaName": "Reporting the financial performance of a range of entities",
+   "section": "Other reporting issues",
+   "label": "Related parties and implications of related party relationships",
+   "level": 2,
+   "page": 9,
+   "anchor": "preparation of corporate reports",
+   "keywords": [
+    "related part"
+   ]
+  },
+  {
+   "id": "C11e",
+   "area": "C",
+   "areaName": "Reporting the financial performance of a range of entities",
+   "section": "Other reporting issues",
+   "label": "Differences between full IFRS Accounting Standards and the IFRS for SMEs Standard",
+   "level": 2,
+   "page": 9,
+   "anchor": "IFRS for SMEs Standard",
+   "keywords": [
+    "sme"
+   ]
+  },
+  {
+   "id": "D1a",
+   "area": "D",
+   "areaName": "Financial statements of groups of entities",
+   "section": "Group accounting including statements of cash flows",
+   "label": "Determining whether a business combination has occurred; control principle",
+   "level": 3,
+   "page": 9,
+   "anchor": "including the control principle",
+   "keywords": [
+    "control",
+    "business combination"
+   ]
+  },
+  {
+   "id": "D1b",
+   "area": "D",
+   "areaName": "Financial statements of groups of entities",
+   "section": "Group accounting including statements of cash flows",
+   "label": "Acquisition method, identifying the acquirer, cost of a business combination",
+   "level": 3,
+   "page": 10,
+   "anchor": "cost of a business combination",
+   "keywords": [
+    "acquisition method",
+    "acquirer"
+   ]
+  },
+  {
+   "id": "D1c",
+   "area": "D",
+   "areaName": "Financial statements of groups of entities",
+   "section": "Group accounting including statements of cash flows",
+   "label": "Recognition and measurement of acquired assets and liabilities, contingent amounts, intangibles",
+   "level": 3,
+   "page": 10,
+   "anchor": "contingent amounts and intangible assets",
+   "keywords": [
+    "acquired",
+    "contingent",
+    "intangible"
+   ]
+  },
+  {
+   "id": "D1d",
+   "area": "D",
+   "areaName": "Financial statements of groups of entities",
+   "section": "Group accounting including statements of cash flows",
+   "label": "Goodwill and non-controlling interests",
+   "level": 3,
+   "page": 10,
+   "anchor": "goodwill and non-controlling interests",
+   "keywords": [
+    "goodwill",
+    "non-controlling"
+   ]
+  },
+  {
+   "id": "D1e",
+   "area": "D",
+   "areaName": "Financial statements of groups of entities",
+   "section": "Group accounting including statements of cash flows",
+   "label": "Business combination achieved in stages",
+   "level": 3,
+   "page": 10,
+   "anchor": "business combination achieved in stages",
+   "keywords": [
+    "stages"
+   ]
+  },
+  {
+   "id": "D1f",
+   "area": "D",
+   "areaName": "Financial statements of groups of entities",
+   "section": "Group accounting including statements of cash flows",
+   "label": "Procedures for preparing consolidated financial statements",
+   "level": 3,
+   "page": 10,
+   "anchor": "preparing consolidated financial statements",
+   "keywords": [
+    "consolidated"
+   ]
+  },
+  {
+   "id": "D1g",
+   "area": "D",
+   "areaName": "Financial statements of groups of entities",
+   "section": "Group accounting including statements of cash flows",
+   "label": "Changes in ownership interest, loss of control or significant influence",
+   "level": 3,
+   "page": 10,
+   "anchor": "loss of control or significant influence",
+   "keywords": [
+    "ownership",
+    "loss of control"
+   ]
+  },
+  {
+   "id": "D1h",
+   "area": "D",
+   "areaName": "Financial statements of groups of entities",
+   "section": "Group accounting including statements of cash flows",
+   "label": "Impact of discontinued activities on group financial statements",
+   "level": 3,
+   "page": 10,
+   "anchor": "activities have been discontinued",
+   "keywords": [
+    "discontinued"
+   ]
+  },
+  {
+   "id": "D1i",
+   "area": "D",
+   "areaName": "Financial statements of groups of entities",
+   "section": "Group accounting including statements of cash flows",
+   "label": "Subsidiary acquired exclusively with a view to subsequent disposal",
+   "level": 2,
+   "page": 10,
+   "anchor": "subsequent disposal",
+   "keywords": [
+    "subsequent disposal"
+   ]
+  },
+  {
+   "id": "D1j",
+   "area": "D",
+   "areaName": "Financial statements of groups of entities",
+   "section": "Group accounting including statements of cash flows",
+   "label": "Group companies in the parent separate financial statements",
+   "level": 2,
+   "page": 10,
+   "anchor": "separate financial statements of the parent company",
+   "keywords": [
+    "separate financial statements",
+    "parent"
+   ]
+  },
+  {
+   "id": "D1k",
+   "area": "D",
+   "areaName": "Financial statements of groups of entities",
+   "section": "Group accounting including statements of cash flows",
+   "label": "Reduced disclosures for a subsidiary in its separate financial statements",
+   "level": 1,
+   "page": 10,
+   "anchor": "in its separate financial statements",
+   "keywords": [
+    "reduced disclosures",
+    "subsidiary"
+   ]
+  },
+  {
+   "id": "D1l",
+   "area": "D",
+   "areaName": "Financial statements of groups of entities",
+   "section": "Group accounting including statements of cash flows",
+   "label": "Exemption from preparing consolidated financial statements",
+   "level": 2,
+   "page": 10,
+   "anchor": "preparation of consolidated financial statements",
+   "keywords": [
+    "exemption",
+    "consolidated"
+   ]
+  },
+  {
+   "id": "D1m",
+   "area": "D",
+   "areaName": "Financial statements of groups of entities",
+   "section": "Group accounting including statements of cash flows",
+   "label": "Consolidated statement of cash flows: format, content, presentation",
+   "level": 3,
+   "page": 10,
+   "anchor": "consolidated statement of cash flows",
+   "keywords": [
+    "consolidated statement of cash flows"
+   ]
+  },
+  {
+   "id": "D2a",
+   "area": "D",
+   "areaName": "Financial statements of groups of entities",
+   "section": "Associates and joint arrangements",
+   "label": "Significant influence and the equity method for associates",
+   "level": 3,
+   "page": 10,
+   "anchor": "equity method of accounting for associates",
+   "keywords": [
+    "significant influence",
+    "equity method",
+    "associate"
+   ]
+  },
+  {
+   "id": "D2b",
+   "area": "D",
+   "areaName": "Financial statements of groups of entities",
+   "section": "Associates and joint arrangements",
+   "label": "Joint control and classification of joint arrangements",
+   "level": 3,
+   "page": 10,
+   "anchor": "classification of joint arrangements",
+   "keywords": [
+    "joint control",
+    "joint arrangement"
+   ]
+  },
+  {
+   "id": "D3a",
+   "area": "D",
+   "areaName": "Financial statements of groups of entities",
+   "section": "Foreign transactions and entities",
+   "label": "Translating foreign currency transactions into functional and presentation currency",
+   "level": 3,
+   "page": 10,
+   "anchor": "the functional currency and the presentation currency",
+   "keywords": [
+    "functional currency",
+    "presentation currency"
+   ]
+  },
+  {
+   "id": "D3b",
+   "area": "D",
+   "areaName": "Financial statements of groups of entities",
+   "section": "Foreign transactions and entities",
+   "label": "Consolidating foreign operations and their disposal",
+   "level": 3,
+   "page": 10,
+   "anchor": "and their disposal",
+   "keywords": [
+    "foreign operation"
+   ]
+  },
+  {
+   "id": "E1a",
+   "area": "E",
+   "areaName": "Interpret financial and non-financial information for different stakeholders",
+   "section": "Analysis and interpretation of financial and non-financial information and measurement of performance",
+   "label": "Financial and non-financial performance indicators from stakeholder perspectives, EPS, management-defined and additional performance measures",
+   "level": 3,
+   "page": 10,
+   "anchor": "other additional performance measures",
+   "keywords": [
+    "earnings per share",
+    "performance measure",
+    "stakeholder"
+   ]
+  },
+  {
+   "id": "E1b",
+   "area": "E",
+   "areaName": "Interpret financial and non-financial information for different stakeholders",
+   "section": "Analysis and interpretation of financial and non-financial information and measurement of performance",
+   "label": "Reportable segments and usefulness of operating segment disclosures",
+   "level": 3,
+   "page": 10,
+   "anchor": "operating segment disclosures to stakeholders",
+   "keywords": [
+    "segment"
+   ]
+  },
+  {
+   "id": "E1c",
+   "area": "E",
+   "areaName": "Interpret financial and non-financial information for different stakeholders",
+   "section": "Analysis and interpretation of financial and non-financial information and measurement of performance",
+   "label": "Factors affecting quality of financial and non-financial information for investors, incl. management commentary and sustainability disclosures",
+   "level": 3,
+   "page": 11,
+   "anchor": "IFRS Sustainability Disclosure Standards",
+   "keywords": [
+    "quality",
+    "management commentary",
+    "investor"
+   ]
+  },
+  {
+   "id": "F1a",
+   "area": "F",
+   "areaName": "The impact of changes and potential changes in accounting regulation",
+   "section": "Discussion of issues in financial reporting",
+   "label": "Accounting implications of adopting new accounting standards",
+   "level": 2,
+   "page": 11,
+   "anchor": "adoption of new accounting standards",
+   "keywords": [
+    "adoption",
+    "new accounting standard"
+   ]
+  },
+  {
+   "id": "F1b",
+   "area": "F",
+   "areaName": "The impact of changes and potential changes in accounting regulation",
+   "section": "Discussion of issues in financial reporting",
+   "label": "Applying existing standards to contemporary issues: digital assets, natural disasters, climate change, global events",
+   "level": 3,
+   "page": 11,
+   "anchor": "global events",
+   "keywords": [
+    "digital asset",
+    "climate",
+    "natural disaster"
+   ]
+  },
+  {
+   "id": "F1c",
+   "area": "F",
+   "areaName": "The impact of changes and potential changes in accounting regulation",
+   "section": "Discussion of issues in financial reporting",
+   "label": "IFRS Sustainability Disclosure Standards: scope, content, climate disclosures, differences from ESRS",
+   "level": 3,
+   "page": 11,
+   "anchor": "European Sustainability Reporting Standards",
+   "keywords": [
+    "sustainability disclosure",
+    "climate-related",
+    "esrs"
+   ]
+  },
+  {
+   "id": "G1",
+   "area": "G",
+   "areaName": "Employability and technology skills",
+   "section": "Employability and technology skills",
+   "label": "Use computer technology to access and manipulate information",
+   "level": null,
+   "page": 11,
+   "anchor": "access and manipulate relevant information",
+   "keywords": [
+    "computer",
+    "technology"
+   ]
+  },
+  {
+   "id": "G2",
+   "area": "G",
+   "areaName": "Employability and technology skills",
+   "section": "Employability and technology skills",
+   "label": "Work on response options using available functions and technology",
+   "level": null,
+   "page": 11,
+   "anchor": "as would be required in the workplace",
+   "keywords": [
+    "response options"
+   ]
+  },
+  {
+   "id": "G3",
+   "area": "G",
+   "areaName": "Employability and technology skills",
+   "section": "Employability and technology skills",
+   "label": "Navigate windows and screens to create and amend exam responses",
+   "level": null,
+   "page": 11,
+   "anchor": "create and amend responses to exam requirements",
+   "keywords": [
+    "navigate"
+   ]
+  },
+  {
+   "id": "G4",
+   "area": "G",
+   "areaName": "Employability and technology skills",
+   "section": "Employability and technology skills",
+   "label": "Present data and information effectively using appropriate tools",
+   "level": null,
+   "page": 11,
+   "anchor": "Present data and information effectively",
+   "keywords": [
+    "present data"
+   ]
+  }
+ ],
+ "nonLO": [
+  {
+   "id": "S7",
+   "area": "S",
+   "areaName": "Syllabus approach and exam structure",
+   "section": "Approach to examining the syllabus (section 7)",
+   "label": "Exam duration, sections, marks and professional skills marks",
+   "page": 12,
+   "keywords": [
+    "section a",
+    "section b",
+    "professional skills marks",
+    "scenario"
+   ]
+  },
+  {
+   "id": "S9",
+   "area": "S",
+   "areaName": "Syllabus approach and exam structure",
+   "section": "Examination structure and delivery (section 9)",
+   "label": "Pass mark and SBR delivery format",
+   "page": 14,
+   "keywords": [
+    "pass mark",
+    "three-hour"
+   ]
+  },
+  {
+   "id": "S11",
+   "area": "S",
+   "areaName": "Syllabus approach and exam structure",
+   "section": "Examination assessment and examinability (section 11)",
+   "label": "Which regulations are examinable and when",
+   "page": 17,
+   "keywords": [
+    "examinable",
+    "issued",
+    "effective"
+   ]
+  }
+ ]
+}

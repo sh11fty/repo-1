@@ -1,0 +1,3196 @@
+{
+ "summary": {
+  "generated": "by scripts/build-matrix.js",
+  "session": "2026-09..2027-06",
+  "totalLearningOutcomes": 79,
+  "syllabusScopeVerified": 79,
+  "withVerifiedTechnicalLesson": 1,
+  "withVerifiedScoredQuestion": 2,
+  "coverageClaim": "NOT CLAIMED. Technical teaching and assessment content cannot be verified until tier 1 sources and the examinable documents are supplied.",
+  "missingSources": [
+   {
+    "id": "ACCA-EXDOC-SBR-2627",
+    "description": "ACCA examinable documents for SBR 2026-27 (states which standards and amendments are examinable)",
+    "needed": true,
+    "status": "not-provided",
+    "impact": "Examinability of individual standards and recent amendments cannot be confirmed; the engine reports 'needs-verification' rather than guessing."
+   },
+   {
+    "id": "IFRS-ACCOUNTING-STANDARDS",
+    "description": "Authentic IFRS Accounting Standards / IAS text and Conceptual Framework applicable to the session (tier 1)",
+    "needed": true,
+    "status": "not-provided",
+    "impact": "No technical accounting rule can be taught or marked as verified. ifrs.org is blocked from this workspace; the standards are licensed content and must be supplied by the user from a licensed copy."
+   },
+   {
+    "id": "IFRS-SUSTAINABILITY-STANDARDS",
+    "description": "IFRS S1 / S2 text and ESRS comparison material (syllabus F1 c)",
+    "needed": true,
+    "status": "not-provided",
+    "impact": "Sustainability disclosure content cannot be verified."
+   },
+   {
+    "id": "ACCA-STUDYHUB-SBR",
+    "description": "ACCA Study Hub SBR-INT content for Sept 2026-June 2027",
+    "needed": true,
+    "status": "inaccessible",
+    "impact": "The Study Hub URL returns a login page to this workspace and the host is blocked from the shell. No Study Hub content has been read."
+   },
+   {
+    "id": "ACCA-EXAM-GUIDANCE",
+    "description": "ACCA specimen exams, past papers, examiner reports, 'Read the mind of an SBR marker' and 'exam techniques for success' articles",
+    "needed": true,
+    "status": "not-provided",
+    "impact": "No official questions or marking schemes are available; all marking is indicative and labelled as such."
+   },
+   {
+    "id": "TEXTBOOK-2024-SBR",
+    "description": "User's 2024 SBR textbook (tier 5, supplementary)",
+    "needed": false,
+    "status": "not-provided",
+    "impact": "Would be usable only after cross-checking against tier 1 sources."
+   }
+  ]
+ },
+ "rows": [
+  {
+   "id": "A1a",
+   "area": "A",
+   "section": "Professional and ethical behaviour in corporate reporting",
+   "outcome": "Why ethical and professional behaviour matters for complying with accounting and sustainability standards",
+   "level": 3,
+   "syllabusPage": 7,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "IFRS Accounting Standards ethics context; professional code of ethics"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-A1",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Level 3: synthesis and evaluation; expect scenario judgement and written explanation.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 7
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "A1b",
+   "area": "A",
+   "section": "Professional and ethical behaviour in corporate reporting",
+   "outcome": "Consequences of unethical behaviour by management in preparing corporate reports",
+   "level": 3,
+   "syllabusPage": 7,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "IFRS Accounting Standards ethics context; professional code of ethics"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-A1",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Level 3: synthesis and evaluation; expect scenario judgement and written explanation.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 7
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "B1a",
+   "area": "B",
+   "section": "Applications, strengths and weaknesses of an accounting framework",
+   "outcome": "Role of the Conceptual Framework in underpinning accounting standards",
+   "level": 3,
+   "syllabusPage": 7,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "Conceptual Framework for Financial Reporting"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-B1",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Level 3: synthesis and evaluation; expect scenario judgement and written explanation.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 7
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "B1b",
+   "area": "B",
+   "section": "Applications, strengths and weaknesses of an accounting framework",
+   "outcome": "Objectives, principles and limits of financial reporting, including presentation and disclosure",
+   "level": 3,
+   "syllabusPage": 7,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "Conceptual Framework for Financial Reporting"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-B1",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Level 3: synthesis and evaluation; expect scenario judgement and written explanation.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 7
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "B1c",
+   "area": "B",
+   "section": "Applications, strengths and weaknesses of an accounting framework",
+   "outcome": "Qualitative characteristics of useful financial information",
+   "level": 3,
+   "syllabusPage": 7,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "Conceptual Framework for Financial Reporting"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-B1",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Level 3: synthesis and evaluation; expect scenario judgement and written explanation.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 7
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "B1d",
+   "area": "B",
+   "section": "Applications, strengths and weaknesses of an accounting framework",
+   "outcome": "Recognition, derecognition and measurement principles, measurement uncertainty and materiality",
+   "level": 3,
+   "syllabusPage": 7,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "Conceptual Framework for Financial Reporting"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-B1",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Level 3: synthesis and evaluation; expect scenario judgement and written explanation.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 7
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "B1e",
+   "area": "B",
+   "section": "Applications, strengths and weaknesses of an accounting framework",
+   "outcome": "Definitions of the elements of financial statements and items in profit or loss and OCI",
+   "level": 3,
+   "syllabusPage": 7,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "Conceptual Framework for Financial Reporting"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-B1",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Level 3: synthesis and evaluation; expect scenario judgement and written explanation.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 7
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "C1a",
+   "area": "C",
+   "section": "Revenue",
+   "outcome": "Criteria to be met before revenue is recognised",
+   "level": 3,
+   "syllabusPage": 7,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "IFRS 15"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-C1",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Level 3: synthesis and evaluation; expect scenario judgement and written explanation.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 7
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "C1b",
+   "area": "C",
+   "section": "Revenue",
+   "outcome": "Contract revenue and contract cost recognition, including modifications",
+   "level": 3,
+   "syllabusPage": 7,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "IFRS 15"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-C1",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Level 3: synthesis and evaluation; expect scenario judgement and written explanation.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 7
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "C1c",
+   "area": "C",
+   "section": "Revenue",
+   "outcome": "Revenue measurement topics: over-time obligations, returns, repurchase, consignment, warranties, variable consideration, principal v agent, upfront fees",
+   "level": 3,
+   "syllabusPage": 7,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "IFRS 15"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-C1",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Level 3: synthesis and evaluation; expect scenario judgement and written explanation.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 7
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "C2a",
+   "area": "C",
+   "section": "Non-current assets",
+   "outcome": "Recognition, derecognition and measurement of non-current assets, impairments and revaluations",
+   "level": 3,
+   "syllabusPage": 7,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "IAS 16",
+    "IAS 36",
+    "IFRS 5",
+    "IAS 40",
+    "IAS 38",
+    "IAS 23"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-C2",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Level 3: synthesis and evaluation; expect scenario judgement and written explanation.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 7
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "C2b",
+   "area": "C",
+   "section": "Non-current assets",
+   "outcome": "Classification and measurement of non-current assets held for sale",
+   "level": 3,
+   "syllabusPage": 7,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "IAS 16",
+    "IAS 36",
+    "IFRS 5",
+    "IAS 40",
+    "IAS 38",
+    "IAS 23"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-C2",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Level 3: synthesis and evaluation; expect scenario judgement and written explanation.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 7
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "C2c",
+   "area": "C",
+   "section": "Non-current assets",
+   "outcome": "Investment properties: classification, recognition, measurement, change of use",
+   "level": 3,
+   "syllabusPage": 7,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "IAS 16",
+    "IAS 36",
+    "IFRS 5",
+    "IAS 40",
+    "IAS 38",
+    "IAS 23"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-C2",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Level 3: synthesis and evaluation; expect scenario judgement and written explanation.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 7
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "C2d",
+   "area": "C",
+   "section": "Non-current assets",
+   "outcome": "Intangible assets: recognition criteria and subsequent measurement",
+   "level": 3,
+   "syllabusPage": 7,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "IAS 16",
+    "IAS 36",
+    "IFRS 5",
+    "IAS 40",
+    "IAS 38",
+    "IAS 23"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-C2",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Level 3: synthesis and evaluation; expect scenario judgement and written explanation.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 7
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "C2e",
+   "area": "C",
+   "section": "Non-current assets",
+   "outcome": "Borrowing costs",
+   "level": 2,
+   "syllabusPage": 8,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "IAS 16",
+    "IAS 36",
+    "IFRS 5",
+    "IAS 40",
+    "IAS 38",
+    "IAS 23"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-C2",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Level 2.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 8
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "C3a",
+   "area": "C",
+   "section": "Financial instruments",
+   "outcome": "Initial recognition and measurement of financial instruments, business model test",
+   "level": 3,
+   "syllabusPage": 8,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "IFRS 9",
+    "IAS 32",
+    "IFRS 7"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-C3",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Level 3: synthesis and evaluation; expect scenario judgement and written explanation.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 8
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "C3b",
+   "area": "C",
+   "section": "Financial instruments",
+   "outcome": "Subsequent measurement of financial assets and liabilities, fair value option, liability modifications",
+   "level": 3,
+   "syllabusPage": 8,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "IFRS 9",
+    "IAS 32",
+    "IFRS 7"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-C3",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Level 3: synthesis and evaluation; expect scenario judgement and written explanation.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 8
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "C3c",
+   "area": "C",
+   "section": "Financial instruments",
+   "outcome": "Derecognition of financial assets and financial liabilities",
+   "level": 2,
+   "syllabusPage": 8,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "IFRS 9",
+    "IAS 32",
+    "IFRS 7"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-C3",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Level 2.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 8
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "C3d",
+   "area": "C",
+   "section": "Financial instruments",
+   "outcome": "Reclassification of financial assets",
+   "level": 2,
+   "syllabusPage": 8,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "IFRS 9",
+    "IAS 32",
+    "IFRS 7"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-C3",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Level 2.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 8
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "C3e",
+   "area": "C",
+   "section": "Financial instruments",
+   "outcome": "Accounting for derivative financial instruments",
+   "level": 2,
+   "syllabusPage": 8,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "IFRS 9",
+    "IAS 32",
+    "IFRS 7"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-C3",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Level 2.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 8
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "C3f",
+   "area": "C",
+   "section": "Financial instruments",
+   "outcome": "Hedge accounting criteria, fair value and cash flow hedges, effectiveness",
+   "level": 2,
+   "syllabusPage": 8,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "IFRS 9",
+    "IAS 32",
+    "IFRS 7"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-C3",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Level 2.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 8
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "C3g",
+   "area": "C",
+   "section": "Financial instruments",
+   "outcome": "General approach to impairment of financial instruments, expected credit losses",
+   "level": 2,
+   "syllabusPage": 8,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "IFRS 9",
+    "IAS 32",
+    "IFRS 7"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-C3",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Level 2.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 8
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "C3h",
+   "area": "C",
+   "section": "Financial instruments",
+   "outcome": "Implications of a significant increase in credit risk",
+   "level": 2,
+   "syllabusPage": 8,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "IFRS 9",
+    "IAS 32",
+    "IFRS 7"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-C3",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Level 2.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 8
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "C3i",
+   "area": "C",
+   "section": "Financial instruments",
+   "outcome": "Purchased or originated credit-impaired financial assets",
+   "level": 2,
+   "syllabusPage": 8,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "IFRS 9",
+    "IAS 32",
+    "IFRS 7"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-C3",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Level 2.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 8
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "C4a",
+   "area": "C",
+   "section": "Leases",
+   "outcome": "Lessee accounting: identifying a lease, right-of-use asset and lease liability",
+   "level": 3,
+   "syllabusPage": 8,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "IFRS 16"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-C4",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Level 3: synthesis and evaluation; expect scenario judgement and written explanation.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 8
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "C4b",
+   "area": "C",
+   "section": "Leases",
+   "outcome": "Lessor accounting including subleases",
+   "level": 3,
+   "syllabusPage": 8,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "IFRS 16"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-C4",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Level 3: synthesis and evaluation; expect scenario judgement and written explanation.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 8
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "C4c",
+   "area": "C",
+   "section": "Leases",
+   "outcome": "Re-measurement of the lease liability",
+   "level": 3,
+   "syllabusPage": 8,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "IFRS 16"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-C4",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Level 3: synthesis and evaluation; expect scenario judgement and written explanation.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 8
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "C4d",
+   "area": "C",
+   "section": "Leases",
+   "outcome": "Separating lease and non-lease components",
+   "level": 3,
+   "syllabusPage": 8,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "IFRS 16"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-C4",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Level 3: synthesis and evaluation; expect scenario judgement and written explanation.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 8
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "C4e",
+   "area": "C",
+   "section": "Leases",
+   "outcome": "Recognition exemptions in the leasing standard",
+   "level": 3,
+   "syllabusPage": 8,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "IFRS 16"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-C4",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Level 3: synthesis and evaluation; expect scenario judgement and written explanation.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 8
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "C4f",
+   "area": "C",
+   "section": "Leases",
+   "outcome": "Sale and leaseback transactions",
+   "level": 3,
+   "syllabusPage": 8,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "IFRS 16"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-C4",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Level 3: synthesis and evaluation; expect scenario judgement and written explanation.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 8
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "C5a",
+   "area": "C",
+   "section": "Employee benefits",
+   "outcome": "Short and long-term employee benefits, termination benefits, defined contribution and defined benefit plans",
+   "level": 3,
+   "syllabusPage": 8,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "IAS 19"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-C5",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Level 3: synthesis and evaluation; expect scenario judgement and written explanation.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 8
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "C5b",
+   "area": "C",
+   "section": "Employee benefits",
+   "outcome": "Gains and losses on settlements and curtailments",
+   "level": 2,
+   "syllabusPage": 8,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "IAS 19"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-C5",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Level 2.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 8
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "C5c",
+   "area": "C",
+   "section": "Employee benefits",
+   "outcome": "Asset ceiling test and reporting of actuarial gains and losses",
+   "level": 2,
+   "syllabusPage": 8,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "IAS 19"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-C5",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Level 2.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 8
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "C6a",
+   "area": "C",
+   "section": "Income taxes",
+   "outcome": "Current and deferred tax liabilities and assets: recognition and measurement",
+   "level": 3,
+   "syllabusPage": 8,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "IAS 12"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-C6",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Level 3: synthesis and evaluation; expect scenario judgement and written explanation.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 8
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "C6b",
+   "area": "C",
+   "section": "Income taxes",
+   "outcome": "Deferred tax on a business combination",
+   "level": 2,
+   "syllabusPage": 8,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "IAS 12"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-C6",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Level 2.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 8
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "C7a",
+   "area": "C",
+   "section": "Provisions, contingencies and events after the reporting period",
+   "outcome": "Provisions, contingent liabilities and assets, onerous contracts, environmental and restructuring provisions",
+   "level": 3,
+   "syllabusPage": 9,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "IAS 37",
+    "IAS 10"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-C7",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Level 3: synthesis and evaluation; expect scenario judgement and written explanation.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 9
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "C7b",
+   "area": "C",
+   "section": "Provisions, contingencies and events after the reporting period",
+   "outcome": "Events after the reporting period",
+   "level": 3,
+   "syllabusPage": 9,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "IAS 37",
+    "IAS 10"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-C7",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Level 3: synthesis and evaluation; expect scenario judgement and written explanation.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 9
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "C8a",
+   "area": "C",
+   "section": "Share-based payment",
+   "outcome": "Share-based payment recognition and measurement",
+   "level": 3,
+   "syllabusPage": 9,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "IFRS 2"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-C8",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Level 3: synthesis and evaluation; expect scenario judgement and written explanation.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 9
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "C9a",
+   "area": "C",
+   "section": "Fair value measurement",
+   "outcome": "Fair value measurement principles and active market",
+   "level": 3,
+   "syllabusPage": 9,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "IFRS 13"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-C9",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Level 3: synthesis and evaluation; expect scenario judgement and written explanation.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 9
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "C9b",
+   "area": "C",
+   "section": "Fair value measurement",
+   "outcome": "Fair value hierarchy and valuation techniques",
+   "level": 3,
+   "syllabusPage": 9,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "IFRS 13"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-C9",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Level 3: synthesis and evaluation; expect scenario judgement and written explanation.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 9
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "C9c",
+   "area": "C",
+   "section": "Fair value measurement",
+   "outcome": "Highest and best use, most advantageous and principal market",
+   "level": 3,
+   "syllabusPage": 9,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "IFRS 13"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-C9",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Level 3: synthesis and evaluation; expect scenario judgement and written explanation.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 9
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "C10a",
+   "area": "C",
+   "section": "Presentation and disclosure in financial statements",
+   "outcome": "Format, content and presentation of the statement of profit or loss and OCI",
+   "level": 3,
+   "syllabusPage": 9,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "IAS 1 and/or its replacement (applicability for the session unresolved)",
+    "IAS 7",
+    "IAS 8"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-C10",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Level 3: synthesis and evaluation; expect scenario judgement and written explanation.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 9
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "C10b",
+   "area": "C",
+   "section": "Presentation and disclosure in financial statements",
+   "outcome": "Format and presentation of the statement of financial position, current v non-current",
+   "level": 3,
+   "syllabusPage": 9,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "IAS 1 and/or its replacement (applicability for the session unresolved)",
+    "IAS 7",
+    "IAS 8"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-C10",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Level 3: synthesis and evaluation; expect scenario judgement and written explanation.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 9
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "C10c",
+   "area": "C",
+   "section": "Presentation and disclosure in financial statements",
+   "outcome": "Format, content and presentation of the statement of cash flows",
+   "level": 3,
+   "syllabusPage": 9,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "IAS 1 and/or its replacement (applicability for the session unresolved)",
+    "IAS 7",
+    "IAS 8"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-C10",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Level 3: synthesis and evaluation; expect scenario judgement and written explanation.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 9
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "C10d",
+   "area": "C",
+   "section": "Presentation and disclosure in financial statements",
+   "outcome": "Aggregation, disaggregation and offsetting in statements and notes",
+   "level": 3,
+   "syllabusPage": 9,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "IAS 1 and/or its replacement (applicability for the session unresolved)",
+    "IAS 7",
+    "IAS 8"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-C10",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Level 3: synthesis and evaluation; expect scenario judgement and written explanation.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 9
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "C10e",
+   "area": "C",
+   "section": "Presentation and disclosure in financial statements",
+   "outcome": "Principles that maximise the usefulness of disclosure notes",
+   "level": 3,
+   "syllabusPage": 9,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "IAS 1 and/or its replacement (applicability for the session unresolved)",
+    "IAS 7",
+    "IAS 8"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-C10",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Level 3: synthesis and evaluation; expect scenario judgement and written explanation.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 9
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "C10f",
+   "area": "C",
+   "section": "Presentation and disclosure in financial statements",
+   "outcome": "Disclosure of management-defined performance measures",
+   "level": 3,
+   "syllabusPage": 9,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "IAS 1 and/or its replacement (applicability for the session unresolved)",
+    "IAS 7",
+    "IAS 8"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-C10",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Level 3: synthesis and evaluation; expect scenario judgement and written explanation.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 9
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "C11a",
+   "area": "C",
+   "section": "Other reporting issues",
+   "outcome": "Government grants and other government assistance",
+   "level": 3,
+   "syllabusPage": 9,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "IAS 20",
+    "IAS 8",
+    "IAS 24",
+    "IFRS for SMEs"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-C11",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Level 3: synthesis and evaluation; expect scenario judgement and written explanation.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 9
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "C11b",
+   "area": "C",
+   "section": "Other reporting issues",
+   "outcome": "Accounting policies, changes in estimates and prior period errors",
+   "level": 3,
+   "syllabusPage": 9,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "IAS 20",
+    "IAS 8",
+    "IAS 24",
+    "IFRS for SMEs"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-C11",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Level 3: synthesis and evaluation; expect scenario judgement and written explanation.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 9
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "C11c",
+   "area": "C",
+   "section": "Other reporting issues",
+   "outcome": "Going concern",
+   "level": 3,
+   "syllabusPage": 9,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "IAS 20",
+    "IAS 8",
+    "IAS 24",
+    "IFRS for SMEs"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-C11",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Level 3: synthesis and evaluation; expect scenario judgement and written explanation.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 9
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "C11d",
+   "area": "C",
+   "section": "Other reporting issues",
+   "outcome": "Related parties and implications of related party relationships",
+   "level": 2,
+   "syllabusPage": 9,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "IAS 20",
+    "IAS 8",
+    "IAS 24",
+    "IFRS for SMEs"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-C11",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Level 2.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 9
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "C11e",
+   "area": "C",
+   "section": "Other reporting issues",
+   "outcome": "Differences between full IFRS Accounting Standards and the IFRS for SMEs Standard",
+   "level": 2,
+   "syllabusPage": 9,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "IAS 20",
+    "IAS 8",
+    "IAS 24",
+    "IFRS for SMEs"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-C11",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Level 2.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 9
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "D1a",
+   "area": "D",
+   "section": "Group accounting including statements of cash flows",
+   "outcome": "Determining whether a business combination has occurred; control principle",
+   "level": 3,
+   "syllabusPage": 9,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "IFRS 3",
+    "IFRS 10",
+    "IFRS 5",
+    "IAS 27",
+    "IAS 7"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-D1",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Level 3: synthesis and evaluation; expect scenario judgement and written explanation.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 9
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "D1b",
+   "area": "D",
+   "section": "Group accounting including statements of cash flows",
+   "outcome": "Acquisition method, identifying the acquirer, cost of a business combination",
+   "level": 3,
+   "syllabusPage": 10,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "IFRS 3",
+    "IFRS 10",
+    "IFRS 5",
+    "IAS 27",
+    "IAS 7"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-D1",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Level 3: synthesis and evaluation; expect scenario judgement and written explanation.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 10
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "D1c",
+   "area": "D",
+   "section": "Group accounting including statements of cash flows",
+   "outcome": "Recognition and measurement of acquired assets and liabilities, contingent amounts, intangibles",
+   "level": 3,
+   "syllabusPage": 10,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "IFRS 3",
+    "IFRS 10",
+    "IFRS 5",
+    "IAS 27",
+    "IAS 7"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-D1",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Level 3: synthesis and evaluation; expect scenario judgement and written explanation.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 10
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "D1d",
+   "area": "D",
+   "section": "Group accounting including statements of cash flows",
+   "outcome": "Goodwill and non-controlling interests",
+   "level": 3,
+   "syllabusPage": 10,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "IFRS 3",
+    "IFRS 10",
+    "IFRS 5",
+    "IAS 27",
+    "IAS 7"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-D1",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Level 3: synthesis and evaluation; expect scenario judgement and written explanation.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 10
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "D1e",
+   "area": "D",
+   "section": "Group accounting including statements of cash flows",
+   "outcome": "Business combination achieved in stages",
+   "level": 3,
+   "syllabusPage": 10,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "IFRS 3",
+    "IFRS 10",
+    "IFRS 5",
+    "IAS 27",
+    "IAS 7"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-D1",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Level 3: synthesis and evaluation; expect scenario judgement and written explanation.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 10
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "D1f",
+   "area": "D",
+   "section": "Group accounting including statements of cash flows",
+   "outcome": "Procedures for preparing consolidated financial statements",
+   "level": 3,
+   "syllabusPage": 10,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "IFRS 3",
+    "IFRS 10",
+    "IFRS 5",
+    "IAS 27",
+    "IAS 7"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-D1",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Level 3: synthesis and evaluation; expect scenario judgement and written explanation.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 10
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "D1g",
+   "area": "D",
+   "section": "Group accounting including statements of cash flows",
+   "outcome": "Changes in ownership interest, loss of control or significant influence",
+   "level": 3,
+   "syllabusPage": 10,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "IFRS 3",
+    "IFRS 10",
+    "IFRS 5",
+    "IAS 27",
+    "IAS 7"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-D1",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Level 3: synthesis and evaluation; expect scenario judgement and written explanation.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 10
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "D1h",
+   "area": "D",
+   "section": "Group accounting including statements of cash flows",
+   "outcome": "Impact of discontinued activities on group financial statements",
+   "level": 3,
+   "syllabusPage": 10,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "IFRS 3",
+    "IFRS 10",
+    "IFRS 5",
+    "IAS 27",
+    "IAS 7"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-D1",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Level 3: synthesis and evaluation; expect scenario judgement and written explanation.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 10
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "D1i",
+   "area": "D",
+   "section": "Group accounting including statements of cash flows",
+   "outcome": "Subsidiary acquired exclusively with a view to subsequent disposal",
+   "level": 2,
+   "syllabusPage": 10,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "IFRS 3",
+    "IFRS 10",
+    "IFRS 5",
+    "IAS 27",
+    "IAS 7"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-D1",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Level 2.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 10
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "D1j",
+   "area": "D",
+   "section": "Group accounting including statements of cash flows",
+   "outcome": "Group companies in the parent separate financial statements",
+   "level": 2,
+   "syllabusPage": 10,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "IFRS 3",
+    "IFRS 10",
+    "IFRS 5",
+    "IAS 27",
+    "IAS 7"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-D1",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Level 2.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 10
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "D1k",
+   "area": "D",
+   "section": "Group accounting including statements of cash flows",
+   "outcome": "Reduced disclosures for a subsidiary in its separate financial statements",
+   "level": 1,
+   "syllabusPage": 10,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "IFRS 3",
+    "IFRS 10",
+    "IFRS 5",
+    "IAS 27",
+    "IAS 7"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-D1",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Level 1.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 10
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "D1l",
+   "area": "D",
+   "section": "Group accounting including statements of cash flows",
+   "outcome": "Exemption from preparing consolidated financial statements",
+   "level": 2,
+   "syllabusPage": 10,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "IFRS 3",
+    "IFRS 10",
+    "IFRS 5",
+    "IAS 27",
+    "IAS 7"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-D1",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Level 2.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 10
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "D1m",
+   "area": "D",
+   "section": "Group accounting including statements of cash flows",
+   "outcome": "Consolidated statement of cash flows: format, content, presentation",
+   "level": 3,
+   "syllabusPage": 10,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "IFRS 3",
+    "IFRS 10",
+    "IFRS 5",
+    "IAS 27",
+    "IAS 7"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-D1",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Level 3: synthesis and evaluation; expect scenario judgement and written explanation.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 10
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "D2a",
+   "area": "D",
+   "section": "Associates and joint arrangements",
+   "outcome": "Significant influence and the equity method for associates",
+   "level": 3,
+   "syllabusPage": 10,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "IAS 28",
+    "IFRS 11"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-D2",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Level 3: synthesis and evaluation; expect scenario judgement and written explanation.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 10
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "D2b",
+   "area": "D",
+   "section": "Associates and joint arrangements",
+   "outcome": "Joint control and classification of joint arrangements",
+   "level": 3,
+   "syllabusPage": 10,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "IAS 28",
+    "IFRS 11"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-D2",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Level 3: synthesis and evaluation; expect scenario judgement and written explanation.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 10
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "D3a",
+   "area": "D",
+   "section": "Foreign transactions and entities",
+   "outcome": "Translating foreign currency transactions into functional and presentation currency",
+   "level": 3,
+   "syllabusPage": 10,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "IAS 21"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-D3",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Level 3: synthesis and evaluation; expect scenario judgement and written explanation.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 10
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "D3b",
+   "area": "D",
+   "section": "Foreign transactions and entities",
+   "outcome": "Consolidating foreign operations and their disposal",
+   "level": 3,
+   "syllabusPage": 10,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "IAS 21"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-D3",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Level 3: synthesis and evaluation; expect scenario judgement and written explanation.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 10
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "E1a",
+   "area": "E",
+   "section": "Analysis and interpretation of financial and non-financial information and measurement of performance",
+   "outcome": "Financial and non-financial performance indicators from stakeholder perspectives, EPS, management-defined and additional performance measures",
+   "level": 3,
+   "syllabusPage": 10,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "IAS 33",
+    "IFRS 8",
+    "management commentary guidance"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-STEP",
+     "status": "verified-from-sources"
+    },
+    {
+     "id": "L-E1",
+     "status": "source-required"
+    }
+   ],
+   "questions": [
+    "Q-ART-001",
+    "Q-ART-003"
+   ],
+   "techniqueNote": "Level 3: synthesis and evaluation; expect scenario judgement and written explanation.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 10
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "partial",
+   "gaps": [
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "E1b",
+   "area": "E",
+   "section": "Analysis and interpretation of financial and non-financial information and measurement of performance",
+   "outcome": "Reportable segments and usefulness of operating segment disclosures",
+   "level": 3,
+   "syllabusPage": 10,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "IAS 33",
+    "IFRS 8",
+    "management commentary guidance"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-E1",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Level 3: synthesis and evaluation; expect scenario judgement and written explanation.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 10
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "E1c",
+   "area": "E",
+   "section": "Analysis and interpretation of financial and non-financial information and measurement of performance",
+   "outcome": "Factors affecting quality of financial and non-financial information for investors, incl. management commentary and sustainability disclosures",
+   "level": 3,
+   "syllabusPage": 11,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "IAS 33",
+    "IFRS 8",
+    "management commentary guidance"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-E1",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Level 3: synthesis and evaluation; expect scenario judgement and written explanation.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 11
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "F1a",
+   "area": "F",
+   "section": "Discussion of issues in financial reporting",
+   "outcome": "Accounting implications of adopting new accounting standards",
+   "level": 2,
+   "syllabusPage": 11,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "IFRS S1",
+    "IFRS S2",
+    "ESRS"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-F1",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Level 2.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 11
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "F1b",
+   "area": "F",
+   "section": "Discussion of issues in financial reporting",
+   "outcome": "Applying existing standards to contemporary issues: digital assets, natural disasters, climate change, global events",
+   "level": 3,
+   "syllabusPage": 11,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "IFRS S1",
+    "IFRS S2",
+    "ESRS"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-F1",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Level 3: synthesis and evaluation; expect scenario judgement and written explanation.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 11
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "F1c",
+   "area": "F",
+   "section": "Discussion of issues in financial reporting",
+   "outcome": "IFRS Sustainability Disclosure Standards: scope, content, climate disclosures, differences from ESRS",
+   "level": 3,
+   "syllabusPage": 11,
+   "syllabusCheck": "verified-anchor-and-level",
+   "relatedStandardsUnverifiedHint": [
+    "IFRS S1",
+    "IFRS S2",
+    "ESRS"
+   ],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-F1",
+     "status": "source-required"
+    }
+   ],
+   "questions": [
+    "Q-S12-001",
+    "Q-ART-004"
+   ],
+   "techniqueNote": "Level 3: synthesis and evaluation; expect scenario judgement and written explanation.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 11
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "G1",
+   "area": "G",
+   "section": "Employability and technology skills",
+   "outcome": "Use computer technology to access and manipulate information",
+   "level": null,
+   "syllabusPage": 11,
+   "syllabusCheck": "verified-anchor",
+   "relatedStandardsUnverifiedHint": [],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-G",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Employability and technology skills.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 11
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "G2",
+   "area": "G",
+   "section": "Employability and technology skills",
+   "outcome": "Work on response options using available functions and technology",
+   "level": null,
+   "syllabusPage": 11,
+   "syllabusCheck": "verified-anchor",
+   "relatedStandardsUnverifiedHint": [],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-G",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Employability and technology skills.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 11
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "G3",
+   "area": "G",
+   "section": "Employability and technology skills",
+   "outcome": "Navigate windows and screens to create and amend exam responses",
+   "level": null,
+   "syllabusPage": 11,
+   "syllabusCheck": "verified-anchor",
+   "relatedStandardsUnverifiedHint": [],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-G",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Employability and technology skills.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 11
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  },
+  {
+   "id": "G4",
+   "area": "G",
+   "section": "Employability and technology skills",
+   "outcome": "Present data and information effectively using appropriate tools",
+   "level": null,
+   "syllabusPage": 11,
+   "syllabusCheck": "verified-anchor",
+   "relatedStandardsUnverifiedHint": [],
+   "hintBasis": "model memory; NOT verified; not examinability evidence",
+   "lessons": [
+    {
+     "id": "L-G",
+     "status": "source-required"
+    }
+   ],
+   "questions": [],
+   "techniqueNote": "Employability and technology skills.",
+   "authoritativeSources": [
+    {
+     "sourceId": "ACCA-SYL-SBRINT-2627",
+     "tier": 2,
+     "role": "scope and level only",
+     "version": "S26-J27",
+     "page": 11
+    }
+   ],
+   "session": "2026-09..2027-06",
+   "examinability": "in scope per syllabus; standard-level examinability unconfirmed (examinable documents not supplied)",
+   "contentStatus": "scope-verified-content-pending",
+   "gaps": [
+    "No verified technical lesson: authoritative standard text and ACCA examinable documents not supplied.",
+    "No verified scored question.",
+    "No official ACCA question or marking scheme available."
+   ]
+  }
+ ]
+}

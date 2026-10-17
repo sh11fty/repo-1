@@ -10,7 +10,7 @@
     "matrix": "node scripts/build-matrix.js",
     "lessons:validate": "node scripts/validate-content.js",
     "start": "node server/index.js",
-    "test": "node --test tests/",
+    "test": "node --test tests/*.test.js",
     "release-gate": "node scripts/release-gate.js",
     "eval:live": "node scripts/eval-live.js"
   }

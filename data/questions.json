@@ -1,0 +1,1091 @@
+{
+ "note": "All questions are ORIGINAL AI-generated wording testing verified exam-structure facts. None is an ACCA question. Rubrics are indicative, not official marking schemes.",
+ "questions": [
+  {
+   "id": "Q-S7-001",
+   "syllabusRefs": [
+    "S7"
+   ],
+   "topic": "Exam duration",
+   "difficulty": 1,
+   "skill": "recall",
+   "type": "short-answer",
+   "prompt": "How long is the SBR examination?",
+   "sourceStatus": "original-ai-generated",
+   "status": "verified",
+   "scored": true,
+   "hints": [
+    "It is stated in the section on how the syllabus is assessed.",
+    "The answer is expressed in hours and minutes."
+   ],
+   "answerClaims": [
+    {
+     "id": "c1",
+     "type": "source_statement",
+     "text": "The syllabus is assessed by a three-hour fifteen-minute examination.",
+     "citations": [
+      {
+       "chunkId": "ACCA-SYL-SBRINT-2627:p12:c4",
+       "quote": "The syllabus is assessed by a three-hour fifteen-minute examination."
+      }
+     ]
+    }
+   ],
+   "rubric": {
+    "kind": "indicative",
+    "points": [
+     {
+      "id": "p1",
+      "text": "Three hours fifteen minutes",
+      "marks": 1,
+      "keywords": [
+       "three",
+       "hour",
+       "fifteen",
+       "3"
+      ],
+      "citation": {
+       "chunkId": "ACCA-SYL-SBRINT-2627:p12:c4",
+       "quote": "The syllabus is assessed by a three-hour fifteen-minute examination."
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "Q-S7-002",
+   "syllabusRefs": [
+    "S7"
+   ],
+   "topic": "Section A structure",
+   "difficulty": 1,
+   "skill": "recall",
+   "type": "short-answer",
+   "prompt": "Describe Section A of the SBR exam: how many questions, what type, and how many marks each?",
+   "sourceStatus": "original-ai-generated",
+   "status": "verified",
+   "scored": true,
+   "hints": [
+    "Think of two questions with different mark values.",
+    "Both questions are scenario-based."
+   ],
+   "answerClaims": [
+    {
+     "id": "c1",
+     "type": "source_statement",
+     "text": "Section A will consist of two scenario-based questions. The first question will be worth 30 marks and the second question will be worth 20 marks.",
+     "citations": [
+      {
+       "chunkId": "ACCA-SYL-SBRINT-2627:p12:c5",
+       "quote": "Section A will consist of two scenario-based questions. The first question will be worth 30 marks and the second question will be worth 20 marks."
+      }
+     ]
+    }
+   ],
+   "rubric": {
+    "kind": "indicative",
+    "points": [
+     {
+      "id": "p1",
+      "text": "Two scenario-based questions",
+      "marks": 1,
+      "keywords": [
+       "two",
+       "scenario"
+      ],
+      "citation": {
+       "chunkId": "ACCA-SYL-SBRINT-2627:p12:c5",
+       "quote": "Section A will consist of two scenario-based questions. The first question will be worth 30 marks and the second question will be worth 20 marks."
+      }
+     },
+     {
+      "id": "p2",
+      "text": "Question 1 is worth 30 marks",
+      "marks": 1,
+      "keywords": [
+       "30"
+      ],
+      "citation": {
+       "chunkId": "ACCA-SYL-SBRINT-2627:p12:c5",
+       "quote": "Section A will consist of two scenario-based questions. The first question will be worth 30 marks and the second question will be worth 20 marks."
+      }
+     },
+     {
+      "id": "p3",
+      "text": "Question 2 is worth 20 marks",
+      "marks": 1,
+      "keywords": [
+       "20"
+      ],
+      "citation": {
+       "chunkId": "ACCA-SYL-SBRINT-2627:p12:c5",
+       "quote": "Section A will consist of two scenario-based questions. The first question will be worth 30 marks and the second question will be worth 20 marks."
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "Q-S7-003",
+   "syllabusRefs": [
+    "S7"
+   ],
+   "topic": "Section B structure",
+   "difficulty": 1,
+   "skill": "recall",
+   "type": "short-answer",
+   "prompt": "How many questions are in Section B, how many marks is each worth, and what must Section B always include?",
+   "sourceStatus": "original-ai-generated",
+   "status": "verified",
+   "scored": true,
+   "hints": [
+    "Section B questions are discursive.",
+    "One required element relates to a particular viewpoint."
+   ],
+   "answerClaims": [
+    {
+     "id": "c1",
+     "type": "source_statement",
+     "text": "Students will be required to answer a further two questions, each worth 25 marks.",
+     "citations": [
+      {
+       "chunkId": "ACCA-SYL-SBRINT-2627:p13:c1",
+       "quote": "Students will be required to answer a further two questions, each worth 25 marks."
+      }
+     ]
+    },
+    {
+     "id": "c2",
+     "type": "source_statement",
+     "text": "Section B will always include either a full question, or part of a question, that requires the candidate to consider stakeholder perspectives.",
+     "citations": [
+      {
+       "chunkId": "ACCA-SYL-SBRINT-2627:p13:c1",
+       "quote": "Section B could deal with any aspect of the syllabus but will always include either a full question, or part of a question, that requires the candidate to consider stakeholder perspectives."
+      }
+     ]
+    }
+   ],
+   "rubric": {
+    "kind": "indicative",
+    "points": [
+     {
+      "id": "p1",
+      "text": "Two questions, each 25 marks",
+      "marks": 1,
+      "keywords": [
+       "two",
+       "25"
+      ],
+      "citation": {
+       "chunkId": "ACCA-SYL-SBRINT-2627:p13:c1",
+       "quote": "Students will be required to answer a further two questions, each worth 25 marks."
+      }
+     },
+     {
+      "id": "p2",
+      "text": "Always includes a question or part of a question requiring stakeholder perspectives",
+      "marks": 2,
+      "keywords": [
+       "stakeholder"
+      ],
+      "citation": {
+       "chunkId": "ACCA-SYL-SBRINT-2627:p13:c1",
+       "quote": "Section B could deal with any aspect of the syllabus but will always include either a full question, or part of a question, that requires the candidate to consider stakeholder perspectives."
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "Q-S7-004",
+   "syllabusRefs": [
+    "S7"
+   ],
+   "topic": "Professional skills marks",
+   "difficulty": 1,
+   "skill": "recall",
+   "type": "short-answer",
+   "prompt": "How many professional skills marks are there in SBR, and in which questions are they awarded?",
+   "sourceStatus": "original-ai-generated",
+   "status": "verified",
+   "scored": true,
+   "hints": [
+    "The marks are split evenly between two questions.",
+    "The questions are numbered."
+   ],
+   "answerClaims": [
+    {
+     "id": "c1",
+     "type": "source_statement",
+     "text": "Two professional skills marks will be awarded in question two and two in question four.",
+     "citations": [
+      {
+       "chunkId": "ACCA-SYL-SBRINT-2627:p13:c2",
+       "quote": "Two professional skills marks will be awarded in question two and two in question four."
+      }
+     ]
+    },
+    {
+     "id": "c2",
+     "type": "source_statement",
+     "text": "This exam contains four professional skills marks.",
+     "citations": [
+      {
+       "chunkId": "ACCA-SYL-SBRINT-2627:p15:c1",
+       "quote": "This exam contains four professional skills marks."
+      }
+     ]
+    }
+   ],
+   "rubric": {
+    "kind": "indicative",
+    "points": [
+     {
+      "id": "p1",
+      "text": "Two marks in question two and two in question four",
+      "marks": 2,
+      "keywords": [
+       "two",
+       "four",
+       "question"
+      ],
+      "citation": {
+       "chunkId": "ACCA-SYL-SBRINT-2627:p13:c2",
+       "quote": "Two professional skills marks will be awarded in question two and two in question four."
+      }
+     },
+     {
+      "id": "p2",
+      "text": "Four professional skills marks in total",
+      "marks": 1,
+      "keywords": [
+       "four"
+      ],
+      "citation": {
+       "chunkId": "ACCA-SYL-SBRINT-2627:p15:c1",
+       "quote": "This exam contains four professional skills marks."
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "Q-S7-005",
+   "syllabusRefs": [
+    "S7"
+   ],
+   "topic": "Section A Question 1",
+   "difficulty": 1,
+   "skill": "recall",
+   "type": "short-answer",
+   "prompt": "What does the first Section A question focus on and what must candidates do in it?",
+   "sourceStatus": "original-ai-generated",
+   "status": "verified",
+   "scored": true,
+   "hints": [
+    "Which syllabus area (a letter) does it examine?",
+    "There is a spreadsheet task."
+   ],
+   "answerClaims": [
+    {
+     "id": "c1",
+     "type": "source_statement",
+     "text": "Candidates will need to discuss issues in group accounting and use a spreadsheet to adjust a consolidated financial statement.",
+     "citations": [
+      {
+       "chunkId": "ACCA-SYL-SBRINT-2627:p13:c1",
+       "quote": "Candidates will need to discuss issues in group accounting and use a spreadsheet to adjust a consolidated financial statement."
+      }
+     ]
+    }
+   ],
+   "rubric": {
+    "kind": "indicative",
+    "points": [
+     {
+      "id": "p1",
+      "text": "Discuss issues in group accounting",
+      "marks": 1,
+      "keywords": [
+       "group accounting",
+       "discuss"
+      ],
+      "citation": {
+       "chunkId": "ACCA-SYL-SBRINT-2627:p13:c1",
+       "quote": "Candidates will need to discuss issues in group accounting and use a spreadsheet to adjust a consolidated financial statement."
+      }
+     },
+     {
+      "id": "p2",
+      "text": "Use a spreadsheet to adjust a consolidated financial statement",
+      "marks": 1,
+      "keywords": [
+       "spreadsheet",
+       "consolidated"
+      ],
+      "citation": {
+       "chunkId": "ACCA-SYL-SBRINT-2627:p13:c1",
+       "quote": "Candidates will need to discuss issues in group accounting and use a spreadsheet to adjust a consolidated financial statement."
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "Q-S7-006",
+   "syllabusRefs": [
+    "S7"
+   ],
+   "topic": "Section A Question 2",
+   "difficulty": 1,
+   "skill": "recall",
+   "type": "short-answer",
+   "prompt": "What must candidates consider in the second Section A question?",
+   "sourceStatus": "original-ai-generated",
+   "status": "verified",
+   "scored": true,
+   "hints": [
+    "Two kinds of implications are named."
+   ],
+   "answerClaims": [
+    {
+     "id": "c1",
+     "type": "source_statement",
+     "text": "The second question in Section A will require candidates to consider the reporting implications and the ethical implications of specific events in a contemporary scenario.",
+     "citations": [
+      {
+       "chunkId": "ACCA-SYL-SBRINT-2627:p13:c1",
+       "quote": "The second question in Section A will require candidates to consider the reporting implications and the ethical implications of specific events in a contemporary scenario."
+      }
+     ]
+    }
+   ],
+   "rubric": {
+    "kind": "indicative",
+    "points": [
+     {
+      "id": "p1",
+      "text": "Reporting implications of specific events in a contemporary scenario",
+      "marks": 1,
+      "keywords": [
+       "reporting"
+      ],
+      "citation": {
+       "chunkId": "ACCA-SYL-SBRINT-2627:p13:c1",
+       "quote": "The second question in Section A will require candidates to consider the reporting implications and the ethical implications of specific events in a contemporary scenario."
+      }
+     },
+     {
+      "id": "p2",
+      "text": "Ethical implications of those events",
+      "marks": 1,
+      "keywords": [
+       "ethical"
+      ],
+      "citation": {
+       "chunkId": "ACCA-SYL-SBRINT-2627:p13:c1",
+       "quote": "The second question in Section A will require candidates to consider the reporting implications and the ethical implications of specific events in a contemporary scenario."
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "Q-S9-001",
+   "syllabusRefs": [
+    "S9"
+   ],
+   "topic": "Pass mark",
+   "difficulty": 1,
+   "skill": "recall",
+   "type": "short-answer",
+   "prompt": "What is the pass mark for ACCA Qualification examinations?",
+   "sourceStatus": "original-ai-generated",
+   "status": "verified",
+   "scored": true,
+   "hints": [
+    "It is a percentage."
+   ],
+   "answerClaims": [
+    {
+     "id": "c1",
+     "type": "source_statement",
+     "text": "The pass mark for all ACCA Qualification examinations is 50%.",
+     "citations": [
+      {
+       "chunkId": "ACCA-SYL-SBRINT-2627:p14:c1",
+       "quote": "The pass mark for all ACCA Qualification examinations is 50%."
+      }
+     ]
+    }
+   ],
+   "rubric": {
+    "kind": "indicative",
+    "points": [
+     {
+      "id": "p1",
+      "text": "50%",
+      "marks": 1,
+      "keywords": [
+       "50"
+      ],
+      "citation": {
+       "chunkId": "ACCA-SYL-SBRINT-2627:p14:c1",
+       "quote": "The pass mark for all ACCA Qualification examinations is 50%."
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "Q-S9-002",
+   "syllabusRefs": [
+    "S9"
+   ],
+   "topic": "Compulsory questions",
+   "difficulty": 1,
+   "skill": "recall",
+   "type": "short-answer",
+   "prompt": "Can candidates choose which SBR questions to answer?",
+   "sourceStatus": "original-ai-generated",
+   "status": "verified",
+   "scored": true,
+   "hints": [
+    "Think about the words \"compulsory\" and \"sections\"."
+   ],
+   "answerClaims": [
+    {
+     "id": "c1",
+     "type": "source_statement",
+     "text": "It contains two sections and all questions are compulsory.",
+     "citations": [
+      {
+       "chunkId": "ACCA-SYL-SBRINT-2627:p15:c1",
+       "quote": "It contains two sections and all questions are compulsory."
+      }
+     ]
+    }
+   ],
+   "rubric": {
+    "kind": "indicative",
+    "points": [
+     {
+      "id": "p1",
+      "text": "No: it has two sections and all questions are compulsory",
+      "marks": 1,
+      "keywords": [
+       "compulsory",
+       "all"
+      ],
+      "citation": {
+       "chunkId": "ACCA-SYL-SBRINT-2627:p15:c1",
+       "quote": "It contains two sections and all questions are compulsory."
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "Q-S5-001",
+   "syllabusRefs": [
+    "S7"
+   ],
+   "topic": "Intellectual levels",
+   "difficulty": 1,
+   "skill": "recall",
+   "type": "short-answer",
+   "prompt": "How many intellectual (cognitive) levels are used to describe how deeply a learning outcome may be assessed?",
+   "sourceStatus": "original-ai-generated",
+   "status": "verified",
+   "scored": true,
+   "hints": [
+    "The levels are numbered."
+   ],
+   "answerClaims": [
+    {
+     "id": "c1",
+     "type": "source_statement",
+     "text": "The specific capabilities are assessed at one of three intellectual or cognitive levels.",
+     "citations": [
+      {
+       "chunkId": "ACCA-SYL-SBRINT-2627:p5:c1",
+       "quote": "The specific capabilities within the detailed syllabuses and study guides are assessed at one of three intellectual or cognitive levels"
+      }
+     ]
+    }
+   ],
+   "rubric": {
+    "kind": "indicative",
+    "points": [
+     {
+      "id": "p1",
+      "text": "Three levels",
+      "marks": 1,
+      "keywords": [
+       "three",
+       "3"
+      ],
+      "citation": {
+       "chunkId": "ACCA-SYL-SBRINT-2627:p5:c1",
+       "quote": "The specific capabilities within the detailed syllabuses and study guides are assessed at one of three intellectual or cognitive levels"
+      }
+     }
+    ]
+   },
+   "note": "Syllabus section 3."
+  },
+  {
+   "id": "Q-S11-001",
+   "syllabusRefs": [
+    "S11"
+   ],
+   "topic": "Examinability rule",
+   "difficulty": 1,
+   "skill": "recall",
+   "type": "short-answer",
+   "prompt": "Under the stated rule, when are regulations issued on or before 31 August examinable?",
+   "sourceStatus": "original-ai-generated",
+   "status": "verified",
+   "scored": true,
+   "hints": [
+    "The rule gives a start and an end date.",
+    "The start date is 1 September of a particular year."
+   ],
+   "answerClaims": [
+    {
+     "id": "c1",
+     "type": "source_statement",
+     "text": "For most examinations (not tax), regulations issued or legislation passed on or before 31 August annually will be examinable from 1 September of the following year to 31 August of the year after that.",
+     "citations": [
+      {
+       "chunkId": "ACCA-SYL-SBRINT-2627:p17:c1",
+       "quote": "For most examinations (not tax), regulations issued or legislation passed on or before 31 August annually, will be examinable from 1 September of the following year to 31 August of the year after that."
+      }
+     ]
+    }
+   ],
+   "rubric": {
+    "kind": "indicative",
+    "points": [
+     {
+      "id": "p1",
+      "text": "From 1 September of the following year",
+      "marks": 1,
+      "keywords": [
+       "1 september",
+       "following year"
+      ],
+      "citation": {
+       "chunkId": "ACCA-SYL-SBRINT-2627:p17:c1",
+       "quote": "For most examinations (not tax), regulations issued or legislation passed on or before 31 August annually, will be examinable from 1 September of the following year to 31 August of the year after that."
+      }
+     },
+     {
+      "id": "p2",
+      "text": "To 31 August of the year after that",
+      "marks": 1,
+      "keywords": [
+       "31 august"
+      ],
+      "citation": {
+       "chunkId": "ACCA-SYL-SBRINT-2627:p17:c1",
+       "quote": "For most examinations (not tax), regulations issued or legislation passed on or before 31 August annually, will be examinable from 1 September of the following year to 31 August of the year after that."
+      }
+     }
+    ]
+   },
+   "note": "Applies to \"most examinations (not tax)\" per the syllabus. The ACCA examinable documents, not yet supplied, are the final authority."
+  },
+  {
+   "id": "Q-S11-002",
+   "syllabusRefs": [
+    "S11"
+   ],
+   "topic": "Future effective dates",
+   "difficulty": 1,
+   "skill": "recall",
+   "type": "short-answer",
+   "prompt": "What does the syllabus say about regulations whose effective date is in the future?",
+   "sourceStatus": "original-ai-generated",
+   "status": "verified",
+   "scored": true,
+   "hints": [
+    "There is an exception clause."
+   ],
+   "answerClaims": [
+    {
+     "id": "c2",
+     "type": "source_statement",
+     "text": "Regulations issued or legislation passed in accordance with the above dates will not be examinable if the effective date is in the future, unless explicitly stated otherwise in this syllabus and study guide or examinable documents.",
+     "citations": [
+      {
+       "chunkId": "ACCA-SYL-SBRINT-2627:p17:c2",
+       "quote": "Regulations issued or legislation passed in accordance with the above dates will not be examinable if the effective date is in the future, unless explicitly stated otherwise in this syllabus and study guide or examinable documents."
+      }
+     ]
+    }
+   ],
+   "rubric": {
+    "kind": "indicative",
+    "points": [
+     {
+      "id": "p1",
+      "text": "Not examinable if the effective date is in the future",
+      "marks": 1,
+      "keywords": [
+       "not examinable",
+       "future"
+      ],
+      "citation": {
+       "chunkId": "ACCA-SYL-SBRINT-2627:p17:c2",
+       "quote": "Regulations issued or legislation passed in accordance with the above dates will not be examinable if the effective date is in the future, unless explicitly stated otherwise in this syllabus and study guide or examinable documents."
+      }
+     },
+     {
+      "id": "p2",
+      "text": "Unless explicitly stated otherwise in the syllabus and study guide or examinable documents",
+      "marks": 1,
+      "keywords": [
+       "unless",
+       "examinable documents"
+      ],
+      "citation": {
+       "chunkId": "ACCA-SYL-SBRINT-2627:p17:c2",
+       "quote": "Regulations issued or legislation passed in accordance with the above dates will not be examinable if the effective date is in the future, unless explicitly stated otherwise in this syllabus and study guide or examinable documents."
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "Q-S11-003",
+   "syllabusRefs": [
+    "S11"
+   ],
+   "topic": "Issued versus effective",
+   "difficulty": 1,
+   "skill": "recall",
+   "type": "short-answer",
+   "prompt": "In the syllabus, what do the terms \"issued or passed\" and \"effective\" mean?",
+   "sourceStatus": "original-ai-generated",
+   "status": "verified",
+   "scored": true,
+   "hints": [
+    "One relates to approval; the other to when it must be applied."
+   ],
+   "answerClaims": [
+    {
+     "id": "c3",
+     "type": "source_statement",
+     "text": "The term issued or passed relates to when regulation or legislation has been formally approved. The term effective relates to when regulation or legislation must be applied to an entity’s transactions and business practices.",
+     "citations": [
+      {
+       "chunkId": "ACCA-SYL-SBRINT-2627:p17:c2",
+       "quote": "The term issued or passed relates to when regulation or legislation has been formally approved. The term effective relates to when regulation or legislation must be applied to an entity’s transactions and business practices."
+      }
+     ]
+    }
+   ],
+   "rubric": {
+    "kind": "indicative",
+    "points": [
+     {
+      "id": "p1",
+      "text": "Issued or passed: formally approved",
+      "marks": 1,
+      "keywords": [
+       "formally approved",
+       "approved"
+      ],
+      "citation": {
+       "chunkId": "ACCA-SYL-SBRINT-2627:p17:c2",
+       "quote": "The term issued or passed relates to when regulation or legislation has been formally approved. The term effective relates to when regulation or legislation must be applied to an entity’s transactions and business practices."
+      }
+     },
+     {
+      "id": "p2",
+      "text": "Effective: when it must be applied to an entity's transactions and business practices",
+      "marks": 1,
+      "keywords": [
+       "applied",
+       "effective"
+      ],
+      "citation": {
+       "chunkId": "ACCA-SYL-SBRINT-2627:p17:c2",
+       "quote": "The term issued or passed relates to when regulation or legislation has been formally approved. The term effective relates to when regulation or legislation must be applied to an entity’s transactions and business practices."
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "Q-S12-001",
+   "syllabusRefs": [
+    "F1c"
+   ],
+   "topic": "Syllabus amendment",
+   "difficulty": 1,
+   "skill": "recall",
+   "type": "short-answer",
+   "prompt": "What amendment does the 2026-27 syllabus record for F1 c)?",
+   "sourceStatus": "original-ai-generated",
+   "status": "verified",
+   "scored": true,
+   "hints": [
+    "It concerns the intellectual level."
+   ],
+   "answerClaims": [
+    {
+     "id": "c1",
+     "type": "source_statement",
+     "text": "The syllabus records a change to F1 c) Discussion of issues in financial reporting: the intellectual level changed from 2 to 3.",
+     "citations": [
+      {
+       "chunkId": "ACCA-SYL-SBRINT-2627:p12:c2",
+       "quote": "F1 c) Discussion of issues in financial reporting"
+      },
+      {
+       "chunkId": "ACCA-SYL-SBRINT-2627:p12:c3",
+       "quote": "Intellectual level changed from 2 to 3"
+      }
+     ]
+    }
+   ],
+   "rubric": {
+    "kind": "indicative",
+    "points": [
+     {
+      "id": "p1",
+      "text": "Intellectual level changed from 2 to 3",
+      "marks": 2,
+      "keywords": [
+       "2",
+       "3",
+       "level"
+      ],
+      "citation": {
+       "chunkId": "ACCA-SYL-SBRINT-2627:p12:c3",
+       "quote": "Intellectual level changed from 2 to 3"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "Q-ART-001",
+   "syllabusRefs": [
+    "E1a"
+   ],
+   "topic": "Analysis and interpretation at SBR",
+   "difficulty": 1,
+   "skill": "recall",
+   "type": "short-answer",
+   "prompt": "According to the ACCA \"stepping up\" article, how does \"analysis and interpretation\" at SBR differ from FR?",
+   "sourceStatus": "original-ai-generated",
+   "status": "verified",
+   "scored": true,
+   "hints": [
+    "Think depth and meaning."
+   ],
+   "answerClaims": [
+    {
+     "id": "c1",
+     "type": "source_statement",
+     "text": "The article says that in SBR analysis and interpretation has a very different meaning from FR and is tested in much more depth.",
+     "citations": [
+      {
+       "chunkId": "ACCA-ART-SBR-STEPUP:p4:c11",
+       "quote": "was in FR; however in SBR it has a very different meaning. AT THIS LEVEL, ‘ANALYSIS AND INTERPRETATION’ IS TESTED IN MUCH MORE DEPTH."
+      }
+     ]
+    }
+   ],
+   "rubric": {
+    "kind": "indicative",
+    "points": [
+     {
+      "id": "p1",
+      "text": "It has a very different meaning in SBR",
+      "marks": 1,
+      "keywords": [
+       "different meaning"
+      ],
+      "citation": {
+       "chunkId": "ACCA-ART-SBR-STEPUP:p4:c11",
+       "quote": "was in FR; however in SBR it has a very different meaning. AT THIS LEVEL, ‘ANALYSIS AND INTERPRETATION’ IS TESTED IN MUCH MORE DEPTH."
+      }
+     },
+     {
+      "id": "p2",
+      "text": "It is tested in much more depth",
+      "marks": 1,
+      "keywords": [
+       "depth"
+      ],
+      "citation": {
+       "chunkId": "ACCA-ART-SBR-STEPUP:p4:c11",
+       "quote": "was in FR; however in SBR it has a very different meaning. AT THIS LEVEL, ‘ANALYSIS AND INTERPRETATION’ IS TESTED IN MUCH MORE DEPTH."
+      }
+     }
+    ]
+   },
+   "sourceNote": "ACCA article, June 2025; syllabus controls if they differ."
+  },
+  {
+   "id": "Q-ART-002",
+   "syllabusRefs": [
+    "S7"
+   ],
+   "topic": "Regurgitation",
+   "difficulty": 1,
+   "skill": "recall",
+   "type": "short-answer",
+   "prompt": "According to the ACCA article, how much credit is there for simply regurgitating the requirements of IFRS Accounting Standards?",
+   "sourceStatus": "original-ai-generated",
+   "status": "verified",
+   "scored": true,
+   "hints": [
+    "The article uses the phrase \"very little\"."
+   ],
+   "answerClaims": [
+    {
+     "id": "c1",
+     "type": "source_statement",
+     "text": "The article says candidates will score very little in this exam for simply regurgitating the requirements of IFRS Accounting Standards.",
+     "citations": [
+      {
+       "chunkId": "ACCA-ART-SBR-STEPUP:p4:c8",
+       "quote": "You will score very little in this exam for simply regurgitating the requirements of IFRS Accounting Standards."
+      }
+     ]
+    }
+   ],
+   "rubric": {
+    "kind": "indicative",
+    "points": [
+     {
+      "id": "p1",
+      "text": "Candidates score very little",
+      "marks": 1,
+      "keywords": [
+       "very little",
+       "little"
+      ],
+      "citation": {
+       "chunkId": "ACCA-ART-SBR-STEPUP:p4:c8",
+       "quote": "You will score very little in this exam for simply regurgitating the requirements of IFRS Accounting Standards."
+      }
+     }
+    ]
+   },
+   "sourceNote": "ACCA article, June 2025."
+  },
+  {
+   "id": "Q-ART-003",
+   "syllabusRefs": [
+    "E1a"
+   ],
+   "topic": "Additional performance measures",
+   "difficulty": 1,
+   "skill": "recall",
+   "type": "short-answer",
+   "prompt": "According to the ACCA article, at which levels of the Qualification are additional performance measures examined?",
+   "sourceStatus": "original-ai-generated",
+   "status": "verified",
+   "scored": true,
+   "hints": [
+    "Contrast with earlier levels."
+   ],
+   "answerClaims": [
+    {
+     "id": "c1",
+     "type": "source_statement",
+     "text": "The article says that additional performance measures are not examined in the earlier levels of the Qualification.",
+     "citations": [
+      {
+       "chunkId": "ACCA-ART-SBR-STEPUP:p5:c1",
+       "quote": "One area on the SBR syllabus that is worthy of specific mention is ‘additional performance measures’. This area is not examined in the earlier levels of the Qualification."
+      }
+     ]
+    }
+   ],
+   "rubric": {
+    "kind": "indicative",
+    "points": [
+     {
+      "id": "p1",
+      "text": "They are not examined in the earlier levels",
+      "marks": 1,
+      "keywords": [
+       "not examined",
+       "earlier"
+      ],
+      "citation": {
+       "chunkId": "ACCA-ART-SBR-STEPUP:p5:c1",
+       "quote": "One area on the SBR syllabus that is worthy of specific mention is ‘additional performance measures’. This area is not examined in the earlier levels of the Qualification."
+      }
+     }
+    ]
+   },
+   "sourceNote": "ACCA article, June 2025."
+  },
+  {
+   "id": "Q-ART-004",
+   "syllabusRefs": [
+    "F1c"
+   ],
+   "topic": "Sustainability standards examinable",
+   "difficulty": 1,
+   "skill": "recall",
+   "type": "short-answer",
+   "prompt": "According to the ACCA article, what is the status of the IFRS Sustainability Disclosure Standards for SBR?",
+   "sourceStatus": "original-ai-generated",
+   "status": "verified",
+   "scored": true,
+   "hints": [
+    "Consider the phrase \"examinable documents\"."
+   ],
+   "answerClaims": [
+    {
+     "id": "c1",
+     "type": "source_statement",
+     "text": "The article says it is extremely important to be aware that the IFRS Sustainability Disclosure Standards are examinable documents.",
+     "citations": [
+      {
+       "chunkId": "ACCA-ART-SBR-STEPUP:p6:c9",
+       "quote": "it is extremely important to be aware that the IFRS Sustainability Disclosure Standards are examinable documents."
+      }
+     ]
+    }
+   ],
+   "rubric": {
+    "kind": "indicative",
+    "points": [
+     {
+      "id": "p1",
+      "text": "They are examinable documents",
+      "marks": 1,
+      "keywords": [
+       "examinable"
+      ],
+      "citation": {
+       "chunkId": "ACCA-ART-SBR-STEPUP:p6:c9",
+       "quote": "it is extremely important to be aware that the IFRS Sustainability Disclosure Standards are examinable documents."
+      }
+     }
+    ]
+   },
+   "sourceNote": "ACCA article, June 2025. Which parts are examinable in 2026-27 must be confirmed against the examinable documents (not supplied)."
+  },
+  {
+   "id": "Q-ART-005",
+   "syllabusRefs": [
+    "S7"
+   ],
+   "topic": "Numerical or written",
+   "difficulty": 1,
+   "skill": "recall",
+   "type": "short-answer",
+   "prompt": "According to the ACCA article, what is a common misconception about a reporting exam such as SBR?",
+   "sourceStatus": "original-ai-generated",
+   "status": "verified",
+   "scored": true,
+   "hints": [
+    "It concerns the balance between calculation and writing."
+   ],
+   "answerClaims": [
+    {
+     "id": "c1",
+     "type": "source_statement",
+     "text": "The article says a common misconception is that a reporting exam is largely numerical, however the emphasis in SBR is on written questions.",
+     "citations": [
+      {
+       "chunkId": "ACCA-ART-SBR-STEPUP:p7:c2",
+       "quote": "A common misconception is that a reporting exam is largely numerical, however the emphasis in SBR is on written questions."
+      }
+     ]
+    }
+   ],
+   "rubric": {
+    "kind": "indicative",
+    "points": [
+     {
+      "id": "p1",
+      "text": "That it is largely numerical",
+      "marks": 1,
+      "keywords": [
+       "numerical"
+      ],
+      "citation": {
+       "chunkId": "ACCA-ART-SBR-STEPUP:p7:c2",
+       "quote": "A common misconception is that a reporting exam is largely numerical, however the emphasis in SBR is on written questions."
+      }
+     },
+     {
+      "id": "p2",
+      "text": "The emphasis in SBR is on written questions",
+      "marks": 1,
+      "keywords": [
+       "written"
+      ],
+      "citation": {
+       "chunkId": "ACCA-ART-SBR-STEPUP:p7:c2",
+       "quote": "A common misconception is that a reporting exam is largely numerical, however the emphasis in SBR is on written questions."
+      }
+     }
+    ]
+   },
+   "sourceNote": "ACCA article, June 2025."
+  },
+  {
+   "id": "Q-ART-006",
+   "syllabusRefs": [
+    "S7"
+   ],
+   "topic": "Practice and feedback",
+   "difficulty": 1,
+   "skill": "recall",
+   "type": "short-answer",
+   "prompt": "According to the ACCA article, what is the best way to develop SBR skills and exam technique?",
+   "sourceStatus": "original-ai-generated",
+   "status": "verified",
+   "scored": true,
+   "hints": [
+    "It involves a particular type of question."
+   ],
+   "answerClaims": [
+    {
+     "id": "c1",
+     "type": "source_statement",
+     "text": "The article says the best way to develop the necessary skills and a good exam technique is to attempt exam-style questions throughout your studies.",
+     "citations": [
+      {
+       "chunkId": "ACCA-ART-SBR-STEPUP:p7:c7",
+       "quote": "the very best way to develop these necessary skills and a good exam technique is to attempt exam-style questions throughout your studies."
+      }
+     ]
+    }
+   ],
+   "rubric": {
+    "kind": "indicative",
+    "points": [
+     {
+      "id": "p1",
+      "text": "Attempt exam-style questions throughout your studies",
+      "marks": 2,
+      "keywords": [
+       "exam-style",
+       "questions"
+      ],
+      "citation": {
+       "chunkId": "ACCA-ART-SBR-STEPUP:p7:c7",
+       "quote": "the very best way to develop these necessary skills and a good exam technique is to attempt exam-style questions throughout your studies."
+      }
+     }
+    ]
+   },
+   "sourceNote": "ACCA article, June 2025."
+  }
+ ]
+}
