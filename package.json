@@ -1,0 +1,17 @@
+{
+  "name": "sbr-tutor",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Evidence-grounded, fail-closed ACCA SBR-INT tutor. Zero runtime dependencies.",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "ingest": "node scripts/ingest.js",
+    "matrix": "node scripts/build-matrix.js",
+    "lessons:validate": "node scripts/validate-content.js",
+    "start": "node server/index.js",
+    "test": "node --test tests/",
+    "release-gate": "node scripts/release-gate.js",
+    "eval:live": "node scripts/eval-live.js"
+  }
+}

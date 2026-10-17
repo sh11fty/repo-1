@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+node_modules/
+# Protected third-party content: never committed. Rebuilt locally by `npm run ingest`.
+sources/raw/
+data/corpus/
+# Personal learning data and audit logs stay local
+data/audit/*.jsonl
+data/progress/*.json
+data/corrections.json
+*.log
