@@ -10,3 +10,4 @@ data/audit/*.jsonl
 data/progress/*.json
 data/corrections.json
 *.log
+data/notes/
